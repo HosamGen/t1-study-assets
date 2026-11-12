@@ -1,0 +1,2796 @@
+Part 2 (U2 Attribution) questions: 100 in total, one block per question, sorted by id.
+
+HOW TO BUILD EACH QUESTION (one page per question):
+1. Text block with the TEXT, copied exactly (everything between the two lines of -----).
+2. Label "Before" + Before image, label "After" + After image (side by side if the builder allows).
+3. One answer question PER BOX, titled "[id] Box N" (e.g. "[h294] Box 1"). Use a dropdown if the builder has one,
+   otherwise single-select (exactly one answer). Options = that question's list below, exactly as written and in that
+   order. The letters and their order differ between questions. Required; nothing pre-selected; no option randomization.
+
+INSTRUCTIONS PAGE TEXT (one text page before the first question; copy exactly):
+-----
+How to answer: "Which objective does each box serve?"
+
+You will see two photos of the same place: BEFORE the project and AFTER it, plus a list of the project's objectives labelled with letters. For every numbered box, choose one letter:
+- the objective that the change in that box serves;
+- "Not a documented objective" if the box changed but the change serves none of the listed objectives;
+- "No change here" if the box did not change.
+
+A letter can be used for several boxes, and some letters may not be used at all. The letters are in a different order in every question, so read the list each time.
+
+Example (made up):
+Objectives: A. Add greenery to the square. B. No change here. C. Improve lighting at night. D. Not a documented objective.
+Box 1: new trees planted. Answer A.
+Box 2: new street lamps. Answer C.
+Box 3: the building looks the same. Answer B.
+Box 4: a new advertising billboard that serves none of the objectives. Answer D.
+-----
+
+===== h002 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h002_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h002_after.jpg
+Answer questions: [h002] Box 1, [h002] Box 2, [h002] Box 3, [h002] Box 4, [h002] Box 5, [h002] Box 6, [h002] Box 7, [h002] Box 8
+Options for every box, in this order:
+A. Encourage tourism
+B. Environmental recovery of public space
+C. No change here.
+D. Facilitate heavy pedestrian flow in the area
+E. Provide an appropriate setting for the existing historic buildings
+F. Not a documented objective.
+TEXT:
+-----
+Project brief:
+A street junction in Monserrat, Buenos Aires: a corner cafe on the left, a long historic building wall on the right, and a view along Adolfo Alsina from the corner.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Encourage tourism
+B. Environmental recovery of public space
+C. No change here.
+D. Facilitate heavy pedestrian flow in the area
+E. Provide an appropriate setting for the existing historic buildings
+F. Not a documented objective.
+-----
+
+===== h004 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h004_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h004_after.jpg
+Answer questions: [h004] Box 1, [h004] Box 2, [h004] Box 3, [h004] Box 4, [h004] Box 5, [h004] Box 6, [h004] Box 7, [h004] Box 8
+Options for every box, in this order:
+A. Strengthen Baana’s distinctive character while respecting historical and present-day features.
+B. No change here.
+C. Not a documented objective.
+D. Preserve a clear and simple spatial form for the railway cutting.
+E. Provide a public corridor for walking, cycling and leisure.
+TEXT:
+-----
+Project brief:
+Elevated roadside view looking diagonally along the sunken former harbour-railway cutting beside red-brick and grey retaining walls in Helsinki.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Strengthen Baana’s distinctive character while respecting historical and present-day features.
+B. No change here.
+C. Not a documented objective.
+D. Preserve a clear and simple spatial form for the railway cutting.
+E. Provide a public corridor for walking, cycling and leisure.
+-----
+
+===== h006 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h006_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h006_after.jpg
+Answer questions: [h006] Box 1, [h006] Box 2, [h006] Box 3, [h006] Box 4, [h006] Box 5, [h006] Box 6, [h006] Box 7
+Options for every box, in this order:
+A. Restore a continuous neighbourhood street route for walkers and vehicles.
+B. Revitalize the Saint-Roch neighbourhood and its commercial street.
+C. Separate pedestrians from vehicle traffic with safe walking space along both sides.
+D. No change here.
+E. Not a documented objective.
+TEXT:
+-----
+Project brief:
+A street-level view looking from Rue du Pont into Rue Saint-Joseph, between the historic stone bank on the left and a newer commercial building on the right in Saint-Roch, Québec City.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Restore a continuous neighbourhood street route for walkers and vehicles.
+B. Revitalize the Saint-Roch neighbourhood and its commercial street.
+C. Separate pedestrians from vehicle traffic with safe walking space along both sides.
+D. No change here.
+E. Not a documented objective.
+-----
+
+===== h007 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h007_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h007_after.jpg
+Answer questions: [h007] Box 1, [h007] Box 2, [h007] Box 3, [h007] Box 4, [h007] Box 5, [h007] Box 6
+Options for every box, in this order:
+A. Make transit stops and nearby shops or restaurants easier to reach.
+B. Provide safer routes for people cycling along the corridor.
+C. Make bus boarding easier and Route 40 service more reliable.
+D. Make sidewalks and the bus-stop walking route easier to use for everyone.
+E. No change here.
+F. Not a documented objective.
+TEXT:
+-----
+Project brief:
+A curbside view looking east along NW Leary Way toward the overpass, with a brewery storefront on the left and a bus on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Make transit stops and nearby shops or restaurants easier to reach.
+B. Provide safer routes for people cycling along the corridor.
+C. Make bus boarding easier and Route 40 service more reliable.
+D. Make sidewalks and the bus-stop walking route easier to use for everyone.
+E. No change here.
+F. Not a documented objective.
+-----
+
+===== h013 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h013_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h013_after.jpg
+Answer questions: [h013] Box 1, [h013] Box 2, [h013] Box 3, [h013] Box 4
+Options for every box, in this order:
+A. Not a documented objective.
+B. No change here.
+C. Make the renewed boulevard greener, friendlier and more inviting
+D. Enable continuous walking and cycling through the boulevard junction
+TEXT:
+-----
+Project brief:
+View from the eastern Ben Gurion Boulevard junction, looking along a palm-lined central median between multi-lane streets in Tel Aviv.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. No change here.
+C. Make the renewed boulevard greener, friendlier and more inviting
+D. Enable continuous walking and cycling through the boulevard junction
+-----
+
+===== h015 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h015_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h015_after.jpg
+Answer questions: [h015] Box 1, [h015] Box 2, [h015] Box 3, [h015] Box 4, [h015] Box 5, [h015] Box 6
+Options for every box, in this order:
+A. Ensure pedestrians can cross Sōseigawa Avenue safely.
+B. Not a documented objective.
+C. Create a contemporary public space for citizens using greenery and water.
+D. No change here.
+E. Establish a north–south urban corridor of water and greenery.
+TEXT:
+-----
+Project brief:
+A street-level view across the Sōseibashi bridge approach and adjacent Sōseigawa river-park land, looking down the central city corridor between buildings.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Ensure pedestrians can cross Sōseigawa Avenue safely.
+B. Not a documented objective.
+C. Create a contemporary public space for citizens using greenery and water.
+D. No change here.
+E. Establish a north–south urban corridor of water and greenery.
+-----
+
+===== h016 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h016_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h016_after.jpg
+Answer questions: [h016] Box 1, [h016] Box 2, [h016] Box 3, [h016] Box 4, [h016] Box 5, [h016] Box 6
+Options for every box, in this order:
+A. Not a documented objective.
+B. Blend light rail with existing vehicle and pedestrian traffic on the street.
+C. Support intensified development in Downtown North Edge.
+D. Connect downtown Edmonton to the Northern Alberta Institute of Technology by light rail.
+E. No change here.
+TEXT:
+-----
+Project brief:
+View looking north along 105 Street NW from the junction near 106 Avenue, with the red Canadian Urban corner building on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Blend light rail with existing vehicle and pedestrian traffic on the street.
+C. Support intensified development in Downtown North Edge.
+D. Connect downtown Edmonton to the Northern Alberta Institute of Technology by light rail.
+E. No change here.
+-----
+
+===== h019 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h019_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h019_after.jpg
+Answer questions: [h019] Box 1, [h019] Box 2, [h019] Box 3, [h019] Box 4, [h019] Box 5, [h019] Box 6, [h019] Box 7
+Options for every box, in this order:
+A. Not a documented objective.
+B. Create a dedicated cycle route along the shopping street.
+C. No change here.
+D. Refresh the heritage street to highlight historic buildings and make the area more vibrant.
+E. Repair deteriorating historic shopfront façades and architectural details.
+TEXT:
+-----
+Project brief:
+A view along Jalan Hang Kasturi in central Kuala Lumpur, looking between pink arcaded shophouses on the left and shopfronts on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Create a dedicated cycle route along the shopping street.
+C. No change here.
+D. Refresh the heritage street to highlight historic buildings and make the area more vibrant.
+E. Repair deteriorating historic shopfront façades and architectural details.
+-----
+
+===== h021 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h021_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h021_after.jpg
+Answer questions: [h021] Box 1, [h021] Box 2, [h021] Box 3, [h021] Box 4, [h021] Box 5
+Options for every box, in this order:
+A. Provide safer, more comfortable space for pedestrians to walk and gather.
+B. Reduce traffic congestion by simplifying vehicle routes through Midtown.
+C. Upgrade aging underground utility infrastructure beneath the square.
+D. Not a documented objective.
+E. Make the public plaza greener and more inviting for people to enjoy.
+F. Support expanded public events with permanent service infrastructure.
+G. No change here.
+H. Benefit local businesses by accommodating more pedestrian foot traffic.
+TEXT:
+-----
+Project brief:
+A street-level camera faces north along Broadway at West 44th Street, with the curved theater facade on the left and the Seventh Avenue storefronts on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Provide safer, more comfortable space for pedestrians to walk and gather.
+B. Reduce traffic congestion by simplifying vehicle routes through Midtown.
+C. Upgrade aging underground utility infrastructure beneath the square.
+D. Not a documented objective.
+E. Make the public plaza greener and more inviting for people to enjoy.
+F. Support expanded public events with permanent service infrastructure.
+G. No change here.
+H. Benefit local businesses by accommodating more pedestrian foot traffic.
+-----
+
+===== h028 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h028_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h028_after.jpg
+Answer questions: [h028] Box 1, [h028] Box 2, [h028] Box 3, [h028] Box 4, [h028] Box 5
+Options for every box, in this order:
+A. Improve mobility and regional transit connectivity through better transit access and options
+B. Not a documented objective.
+C. Boost downtown economic activity and citizens' quality of life
+D. No change here.
+TEXT:
+-----
+Project brief:
+Edgewood Avenue SE in downtown Atlanta, seen from the sidewalk side looking along the street; a wide roadway with a sidewalk and tree-lined verge on each side and tall office towers behind.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve mobility and regional transit connectivity through better transit access and options
+B. Not a documented objective.
+C. Boost downtown economic activity and citizens' quality of life
+D. No change here.
+-----
+
+===== h033 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h033_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h033_after.jpg
+Answer questions: [h033] Box 1, [h033] Box 2, [h033] Box 3, [h033] Box 4, [h033] Box 5, [h033] Box 6
+Options for every box, in this order:
+A. Encourage responsible graffiti practice and educational activity about visual art.
+B. Honor victims of political violence and strengthen this public place for remembrance.
+C. Not a documented objective.
+D. No change here.
+TEXT:
+-----
+Project brief:
+A wide view from the roadway into a paved urban plaza, facing large end-walls and a red-brick office building along Avenida Calle 26.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Encourage responsible graffiti practice and educational activity about visual art.
+B. Honor victims of political violence and strengthen this public place for remembrance.
+C. Not a documented objective.
+D. No change here.
+-----
+
+===== h044 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h044_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h044_after.jpg
+Answer questions: [h044] Box 1, [h044] Box 2, [h044] Box 3, [h044] Box 4
+Options for every box, in this order:
+A. Improve safety in case of a vehicle breakdown or accident.
+B. Not a documented objective.
+C. Replace the aging highway bridge with a structure meeting contemporary standards.
+D. Avoid construction impacts on the nearby fish spawning area.
+E. No change here.
+F. Make westbound vehicle merging and weaving safer.
+TEXT:
+-----
+Project brief:
+Looking along Rue Sainte-Anne beneath the Pont Galipeault highway crossing, with the canal-side open space to the left and the bridge on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve safety in case of a vehicle breakdown or accident.
+B. Not a documented objective.
+C. Replace the aging highway bridge with a structure meeting contemporary standards.
+D. Avoid construction impacts on the nearby fish spawning area.
+E. No change here.
+F. Make westbound vehicle merging and weaving safer.
+-----
+
+===== h051 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h051_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h051_after.jpg
+Answer questions: [h051] Box 1, [h051] Box 2, [h051] Box 3, [h051] Box 4
+Options for every box, in this order:
+A. Not a documented objective.
+B. No change here.
+C. Provide a physically separated cycling route along the corridor.
+D. Widen the carriageway for emergency vehicles and smoother access to roadside properties.
+E. Improve signal control at the junction.
+TEXT:
+-----
+Project brief:
+A view westward along the Kobe-Sanda Line at the Kamagatani river section in Oike, Kobe, from the foreground approach toward the signalized junction.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. No change here.
+C. Provide a physically separated cycling route along the corridor.
+D. Widen the carriageway for emergency vehicles and smoother access to roadside properties.
+E. Improve signal control at the junction.
+-----
+
+===== h053 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h053_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h053_after.jpg
+Answer questions: [h053] Box 1, [h053] Box 2, [h053] Box 3, [h053] Box 4, [h053] Box 5, [h053] Box 6, [h053] Box 7, [h053] Box 8
+Options for every box, in this order:
+A. Not a documented objective.
+B. Establish Bank Street as a gateway to the important pedestrian link.
+C. Build capacity and working relationships between local traders.
+D. No change here.
+E. Create new social and economic opportunities for local traders and the community.
+F. Make the public realm more attractive.
+G. Make Bank Street more friendly for pedestrian and bicycle travel.
+H. Improve outdoor amenity, shade and privacy for people using the street.
+TEXT:
+-----
+Project brief:
+A view looking along Bank Street north of Hindley Street in central Adelaide, between shopfronts and a motel frontage.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Establish Bank Street as a gateway to the important pedestrian link.
+C. Build capacity and working relationships between local traders.
+D. No change here.
+E. Create new social and economic opportunities for local traders and the community.
+F. Make the public realm more attractive.
+G. Make Bank Street more friendly for pedestrian and bicycle travel.
+H. Improve outdoor amenity, shade and privacy for people using the street.
+-----
+
+===== h055 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h055_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h055_after.jpg
+Answer questions: [h055] Box 1, [h055] Box 2, [h055] Box 3, [h055] Box 4, [h055] Box 5, [h055] Box 6
+Options for every box, in this order:
+A. No change here.
+B. Not a documented objective.
+C. Improve growing conditions for street trees.
+D. Make the residential street look greener.
+TEXT:
+-----
+Project brief:
+A ground-level view across a residential brick-paved forecourt toward a row of houses on Zambesidreef in Utrecht, the Netherlands.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Not a documented objective.
+C. Improve growing conditions for street trees.
+D. Make the residential street look greener.
+-----
+
+===== h056 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h056_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h056_after.jpg
+Answer questions: [h056] Box 1, [h056] Box 2, [h056] Box 3, [h056] Box 4, [h056] Box 5, [h056] Box 6, [h056] Box 7
+Options for every box, in this order:
+A. Not a documented objective.
+B. Provide step-free wheelchair access to the shared building entrance.
+C. Expand secure bicycle parking facilities near the shared entrance.
+D. Increase the number of vehicle parking spaces in the forecourt.
+E. Give the shared entrance a coherent Japanese-modern character harmonizing with Kyoto streetscape.
+F. No change here.
+TEXT:
+-----
+Project brief:
+Street-level view from the small parking forecourt toward the recessed entrance beneath a two-bay facade of a Kyoto apartment building.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Provide step-free wheelchair access to the shared building entrance.
+C. Expand secure bicycle parking facilities near the shared entrance.
+D. Increase the number of vehicle parking spaces in the forecourt.
+E. Give the shared entrance a coherent Japanese-modern character harmonizing with Kyoto streetscape.
+F. No change here.
+-----
+
+===== h057 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h057_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h057_after.jpg
+Answer questions: [h057] Box 1, [h057] Box 2, [h057] Box 3, [h057] Box 4
+Options for every box, in this order:
+A. No change here.
+B. Establish a high-quality public space in the city centre.
+C. Not a documented objective.
+D. Restrict through motor traffic and give priority to transit, cycling and walking.
+E. Keep cyclists and pedestrians flowing while keeping all road users safe.
+TEXT:
+-----
+Project brief:
+A wide city-centre street in Ljubljana, shot from the middle of the carriageway looking down its length, with a tall block and mature street trees on the left and historic façades on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Establish a high-quality public space in the city centre.
+C. Not a documented objective.
+D. Restrict through motor traffic and give priority to transit, cycling and walking.
+E. Keep cyclists and pedestrians flowing while keeping all road users safe.
+-----
+
+===== h058 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h058_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h058_after.jpg
+Answer questions: [h058] Box 1, [h058] Box 2, [h058] Box 3, [h058] Box 4, [h058] Box 5, [h058] Box 6
+Options for every box, in this order:
+A. No change here.
+B. Make emergency-vehicle travel and roadside use smoother.
+C. Improve traffic flow at the southbound approach to Kusakabe-nishi.
+D. Secure safer travel along the school route.
+E. Not a documented objective.
+TEXT:
+-----
+Project brief:
+The northern Kusakabe intersection on the Kobe-Sanda Line in Kobe, viewed from the north looking south.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Make emergency-vehicle travel and roadside use smoother.
+C. Improve traffic flow at the southbound approach to Kusakabe-nishi.
+D. Secure safer travel along the school route.
+E. Not a documented objective.
+-----
+
+===== h059 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h059_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h059_after.jpg
+Answer questions: [h059] Box 1, [h059] Box 2, [h059] Box 3, [h059] Box 4, [h059] Box 5, [h059] Box 6, [h059] Box 7, [h059] Box 8
+Options for every box, in this order:
+A. Make it easier for cars, pedestrians and cyclists to move through the area.
+B. Not a documented objective.
+C. No change here.
+D. Make GO train service more reliable.
+E. Support more frequent, two-way, all-day Barrie Line train service.
+TEXT:
+-----
+Project brief:
+Looking down from an elevated position towards the railway bridge over Bloor Street West, with the roadway running uphill between apartment buildings and retaining walls.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Make it easier for cars, pedestrians and cyclists to move through the area.
+B. Not a documented objective.
+C. No change here.
+D. Make GO train service more reliable.
+E. Support more frequent, two-way, all-day Barrie Line train service.
+-----
+
+===== h063 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h063_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h063_after.jpg
+Answer questions: [h063] Box 1, [h063] Box 2, [h063] Box 3, [h063] Box 4, [h063] Box 5, [h063] Box 6, [h063] Box 7
+Options for every box, in this order:
+A. Reduce transport pollution and noise while respecting the urban heritage landscape.
+B. Reduce private-car dominance and give pedestrians more room in the historic centre.
+C. Expand access across the Bay through rail and tram on a dedicated alignment.
+D. No change here.
+E. Not a documented objective.
+TEXT:
+-----
+Project brief:
+A street-level view along Calle Real in San Fernando, Cádiz, looking straight down the historic commercial street from near the café and clinic.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Reduce transport pollution and noise while respecting the urban heritage landscape.
+B. Reduce private-car dominance and give pedestrians more room in the historic centre.
+C. Expand access across the Bay through rail and tram on a dedicated alignment.
+D. No change here.
+E. Not a documented objective.
+-----
+
+===== h069 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h069_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h069_after.jpg
+Answer questions: [h069] Box 1, [h069] Box 2, [h069] Box 3, [h069] Box 4, [h069] Box 5, [h069] Box 6, [h069] Box 7
+Options for every box, in this order:
+A. Recreate the site's history as a Gwangju landmark and tourist draw for democracy and peace
+B. No change here.
+C. Improve the worn road around the Culture Center, prioritising pedestrian-first sidewalks
+D. Not a documented objective.
+E. Use nature to link the site with the natural environment and the City of Light
+TEXT:
+-----
+Project brief:
+A road junction in Gwangju beside the former Jeollanam-do Provincial Office grounds, photographed from the road looking across a sidewalk strip towards a green parking kiosk.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Recreate the site's history as a Gwangju landmark and tourist draw for democracy and peace
+B. No change here.
+C. Improve the worn road around the Culture Center, prioritising pedestrian-first sidewalks
+D. Not a documented objective.
+E. Use nature to link the site with the natural environment and the City of Light
+-----
+
+===== h078 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h078_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h078_after.jpg
+Answer questions: [h078] Box 1, [h078] Box 2, [h078] Box 3, [h078] Box 4, [h078] Box 5, [h078] Box 6
+Options for every box, in this order:
+A. No change here.
+B. Restore the deteriorating historic shrine in Kwalkhu square.
+C. Not a documented objective.
+D. Illuminate the historic shrine for evening use of Kwalkhu square.
+E. Improve step-free access to the shrine from Kwalkhu square.
+TEXT:
+-----
+Project brief:
+A two-tier brick shrine on a raised plinth in Kwalkhu square, viewed obliquely from the paved square.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Restore the deteriorating historic shrine in Kwalkhu square.
+C. Not a documented objective.
+D. Illuminate the historic shrine for evening use of Kwalkhu square.
+E. Improve step-free access to the shrine from Kwalkhu square.
+-----
+
+===== h082 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h082_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h082_after.jpg
+Answer questions: [h082] Box 1, [h082] Box 2, [h082] Box 3, [h082] Box 4, [h082] Box 5, [h082] Box 6, [h082] Box 7
+Options for every box, in this order:
+A. Make the corner accessible and welcoming regardless of mobility.
+B. No change here.
+C. Not a documented objective.
+D. Make bird-watching and shared contemplative moments more comfortable.
+E. Create a more inviting environment.
+TEXT:
+-----
+Project brief:
+Inside the covered 112 Bird Lovers' Corner pavilion in Radin Mas, looking between two rows of columns toward the rear wall.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Make the corner accessible and welcoming regardless of mobility.
+B. No change here.
+C. Not a documented objective.
+D. Make bird-watching and shared contemplative moments more comfortable.
+E. Create a more inviting environment.
+-----
+
+===== h084 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h084_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h084_after.jpg
+Answer questions: [h084] Box 1, [h084] Box 2, [h084] Box 3, [h084] Box 4, [h084] Box 5, [h084] Box 6, [h084] Box 7
+Options for every box, in this order:
+A. Provide informal visitor resting places in the clearing.
+B. Not a documented objective.
+C. No change here.
+D. Provide nesting structures for native wildlife in the grove.
+E. Remove inappropriate development and restore the ecological health of the sequoia grove.
+TEXT:
+-----
+Project brief:
+A forested slope in the Kaweah Market cabin area, viewed across the clearing from below the former cabin cluster.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Provide informal visitor resting places in the clearing.
+B. Not a documented objective.
+C. No change here.
+D. Provide nesting structures for native wildlife in the grove.
+E. Remove inappropriate development and restore the ecological health of the sequoia grove.
+-----
+
+===== h094 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h094_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h094_after.jpg
+Answer questions: [h094] Box 1, [h094] Box 2, [h094] Box 3, [h094] Box 4, [h094] Box 5, [h094] Box 6, [h094] Box 7
+Options for every box, in this order:
+A. Provide equitable, universally accessible movement across the plaza and to building entrances.
+B. Not a documented objective.
+C. No change here.
+D. Create shaded, comfortable places where people can sit, relax and stay.
+E. Support everyday gatherings and flexible civic and cultural events.
+TEXT:
+-----
+Project brief:
+An elevated view across Boston City Hall Plaza, with City Hall on the right and the glass-roofed transit entrance in the foreground.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Provide equitable, universally accessible movement across the plaza and to building entrances.
+B. Not a documented objective.
+C. No change here.
+D. Create shaded, comfortable places where people can sit, relax and stay.
+E. Support everyday gatherings and flexible civic and cultural events.
+-----
+
+===== h095 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h095_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h095_after.jpg
+Answer questions: [h095] Box 1, [h095] Box 2, [h095] Box 3, [h095] Box 4, [h095] Box 5, [h095] Box 6
+Options for every box, in this order:
+A. Make garden space available for two cars parked in tandem.
+B. No change here.
+C. Not a documented objective.
+D. Restore a passable, visible side passage with better security.
+E. Allow seasonal flowers to be grown in the cleared entrance flowerbed.
+F. Provide sheltered bicycle parking beside the entrance.
+TEXT:
+-----
+Project brief:
+View from the street looking toward the tiled entrance stairs, masonry pier and adjoining narrow planting bed at a Japanese home.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Make garden space available for two cars parked in tandem.
+B. No change here.
+C. Not a documented objective.
+D. Restore a passable, visible side passage with better security.
+E. Allow seasonal flowers to be grown in the cleared entrance flowerbed.
+F. Provide sheltered bicycle parking beside the entrance.
+-----
+
+===== h096 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h096_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h096_after.jpg
+Answer questions: [h096] Box 1, [h096] Box 2, [h096] Box 3, [h096] Box 4, [h096] Box 5, [h096] Box 6
+Options for every box, in this order:
+A. Link HafenCity with the historic centre spatially and functionally.
+B. Not a documented objective.
+C. Make St. Petri–Speicherstadt the main pedestrian connection to HafenCity.
+D. No change here.
+TEXT:
+-----
+Project brief:
+A street-level camera looks along Speersort beside St. Petri Church, with shops on the left and the large brick church on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Link HafenCity with the historic centre spatially and functionally.
+B. Not a documented objective.
+C. Make St. Petri–Speicherstadt the main pedestrian connection to HafenCity.
+D. No change here.
+-----
+
+===== h101 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h101_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h101_after.jpg
+Answer questions: [h101] Box 1, [h101] Box 2, [h101] Box 3, [h101] Box 4, [h101] Box 5, [h101] Box 6, [h101] Box 7, [h101] Box 8
+Options for every box, in this order:
+A. Renew the roadside drain to improve the area's drainage
+B. No change here.
+C. Give pedestrians their own walking space and end pedestrian-vehicle conflict on a lane with none
+D. Remove tree-root damage to paving and neighbouring buildings
+E. Free public land from illegal tin-shed occupation that harmed the cityscape
+F. Not a documented objective.
+TEXT:
+-----
+Project brief:
+A narrow urban lane in Sanchong, Taiwan, seen from the left edge of the lane in front of a row of shopfronts, looking along it toward Datong Park.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Renew the roadside drain to improve the area's drainage
+B. No change here.
+C. Give pedestrians their own walking space and end pedestrian-vehicle conflict on a lane with none
+D. Remove tree-root damage to paving and neighbouring buildings
+E. Free public land from illegal tin-shed occupation that harmed the cityscape
+F. Not a documented objective.
+-----
+
+===== h102 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9
+Before image: https://hosamgen.github.io/t1-study-assets/images/h102_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h102_after.jpg
+Answer questions: [h102] Box 1, [h102] Box 2, [h102] Box 3, [h102] Box 4, [h102] Box 5, [h102] Box 6, [h102] Box 7, [h102] Box 8, [h102] Box 9
+Options for every box, in this order:
+A. Reduce physical obstructions and support more accessible pedestrian movement.
+B. Give the street and adjacent public spaces a coherent, visually unified treatment.
+C. No change here.
+D. Reorganize public-space uses and distinguish walking space from vehicle space.
+E. Not a documented objective.
+F. Improve comfort when pedestrians cross the street.
+TEXT:
+-----
+Project brief:
+Street-level view across Raiffeisenstraße toward the evangelical church forecourt and its steel bell tower, from the opposite pavement.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Reduce physical obstructions and support more accessible pedestrian movement.
+B. Give the street and adjacent public spaces a coherent, visually unified treatment.
+C. No change here.
+D. Reorganize public-space uses and distinguish walking space from vehicle space.
+E. Not a documented objective.
+F. Improve comfort when pedestrians cross the street.
+-----
+
+===== h104 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h104_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h104_after.jpg
+Answer questions: [h104] Box 1, [h104] Box 2, [h104] Box 3, [h104] Box 4
+Options for every box, in this order:
+A. Promote urban tourism and related activities.
+B. Make the street enjoyable through ongoing activity.
+C. Create a timeless design with natural materials gentle on visitors’ senses.
+D. Not a documented objective.
+E. Ensure comfortable, barrier-free pedestrian space, which raises pedestrian circulation.
+F. No change here.
+TEXT:
+-----
+Project brief:
+A view along the former Sakasagawa road from a crossing at a street junction in Kamata, Tokyo.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Promote urban tourism and related activities.
+B. Make the street enjoyable through ongoing activity.
+C. Create a timeless design with natural materials gentle on visitors’ senses.
+D. Not a documented objective.
+E. Ensure comfortable, barrier-free pedestrian space, which raises pedestrian circulation.
+F. No change here.
+-----
+
+===== h106 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h106_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h106_after.jpg
+Answer questions: [h106] Box 1, [h106] Box 2, [h106] Box 3, [h106] Box 4, [h106] Box 5
+Options for every box, in this order:
+A. Protect buried panel faces from soil moisture.
+B. Not a documented objective.
+C. Replace mould-prone surfaces with modern, less porous ones that need less scrubbing.
+D. Prevent pool splash and rainwater from pooling on the surround.
+E. No change here.
+TEXT:
+-----
+Project brief:
+A private tropical pool garden at Emerald Beach, viewed across the rectangular pool from the timber deck beside its near end.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Protect buried panel faces from soil moisture.
+B. Not a documented objective.
+C. Replace mould-prone surfaces with modern, less porous ones that need less scrubbing.
+D. Prevent pool splash and rainwater from pooling on the surround.
+E. No change here.
+-----
+
+===== h118 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h118_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h118_after.jpg
+Answer questions: [h118] Box 1, [h118] Box 2, [h118] Box 3, [h118] Box 4, [h118] Box 5, [h118] Box 6
+Options for every box, in this order:
+A. Not a documented objective.
+B. Improve illumination after dark with new lighting in the shared entrance.
+C. Give the shared entrance a coordinated, fresher, hotel-like appearance.
+D. No change here.
+E. Strengthen electronic access control for entering the residential building.
+TEXT:
+-----
+Project brief:
+A straight-on view into the recessed mailbox alcove of Frontier Tower Kujo I, seen from the shared entrance passage.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Improve illumination after dark with new lighting in the shared entrance.
+C. Give the shared entrance a coordinated, fresher, hotel-like appearance.
+D. No change here.
+E. Strengthen electronic access control for entering the residential building.
+-----
+
+===== h121 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h121_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h121_after.jpg
+Answer questions: [h121] Box 1, [h121] Box 2, [h121] Box 3, [h121] Box 4, [h121] Box 5
+Options for every box, in this order:
+A. No change here.
+B. Increase the quantity and improve the quality of greenery.
+C. Not a documented objective.
+D. Keep a distinctly Japanese atmosphere on the street amid its lively activity.
+E. Let older people and people with disabilities use the pedestrian environment safely and comfortably.
+F. Revitalise the district by making use of each street's distinctive character.
+TEXT:
+-----
+Project brief:
+A narrow urban street in central Tokyo lined by office and parking-building facades, photographed from the carriageway centre looking straight along the road.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Increase the quantity and improve the quality of greenery.
+C. Not a documented objective.
+D. Keep a distinctly Japanese atmosphere on the street amid its lively activity.
+E. Let older people and people with disabilities use the pedestrian environment safely and comfortably.
+F. Revitalise the district by making use of each street's distinctive character.
+-----
+
+===== h124 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h124_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h124_after.jpg
+Answer questions: [h124] Box 1, [h124] Box 2, [h124] Box 3, [h124] Box 4, [h124] Box 5
+Options for every box, in this order:
+A. Give drivers safe sight distance across the intersection
+B. Keep road users and school children safe during construction by closing the site
+C. Keep adequate parking for nearby centre users during the works
+D. No change here.
+E. Make the junction safer for motorists, cyclists and pedestrians
+F. Not a documented objective.
+TEXT:
+-----
+Project brief:
+A T-shaped road junction in a coastal Australian town centre, seen from a grassed corner at the roadside looking across the junction toward a truck-hire yard and a hillside.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Give drivers safe sight distance across the intersection
+B. Keep road users and school children safe during construction by closing the site
+C. Keep adequate parking for nearby centre users during the works
+D. No change here.
+E. Make the junction safer for motorists, cyclists and pedestrians
+F. Not a documented objective.
+-----
+
+===== h126 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h126_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h126_after.jpg
+Answer questions: [h126] Box 1, [h126] Box 2, [h126] Box 3, [h126] Box 4, [h126] Box 5
+Options for every box, in this order:
+A. Provide a meeting place for people.
+B. Recover a degraded public space and organise pedestrian and vehicle movement around it.
+C. No change here.
+D. Not a documented objective.
+E. Stimulate economic growth in central San Isidro.
+TEXT:
+-----
+Project brief:
+A road junction in San Isidro with a tall stone flagpole monument at its centre, seen from a corner across a zebra crossing.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Provide a meeting place for people.
+B. Recover a degraded public space and organise pedestrian and vehicle movement around it.
+C. No change here.
+D. Not a documented objective.
+E. Stimulate economic growth in central San Isidro.
+-----
+
+===== h128 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h128_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h128_after.jpg
+Answer questions: [h128] Box 1, [h128] Box 2, [h128] Box 3, [h128] Box 4, [h128] Box 5, [h128] Box 6, [h128] Box 7, [h128] Box 8
+Options for every box, in this order:
+A. Not a documented objective.
+B. No change here.
+C. Develop Hwaseomun-ro as a pedestrian-oriented road.
+D. Create a clean, beautiful urban streetscape and strengthen local identity.
+E. Reorganize and renew the deteriorated and declining original downtown.
+TEXT:
+-----
+Project brief:
+View looking east along the shop-lined Hwaseomun-ro street in Suwon, from an elevated camera near the right lane beside a traditional-roofed building.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. No change here.
+C. Develop Hwaseomun-ro as a pedestrian-oriented road.
+D. Create a clean, beautiful urban streetscape and strengthen local identity.
+E. Reorganize and renew the deteriorated and declining original downtown.
+-----
+
+===== h136 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h136_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h136_after.jpg
+Answer questions: [h136] Box 1, [h136] Box 2, [h136] Box 3, [h136] Box 4, [h136] Box 5
+Options for every box, in this order:
+A. Illustrate Guararema's history at a meeting point.
+B. No change here.
+C. Provide a space for social interaction.
+D. Not a documented objective.
+E. Connect the courtyard with Praça 9 de Julho.
+TEXT:
+-----
+Project brief:
+A street-facing view of a courtyard between buildings in central Guararema.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Illustrate Guararema's history at a meeting point.
+B. No change here.
+C. Provide a space for social interaction.
+D. Not a documented objective.
+E. Connect the courtyard with Praça 9 de Julho.
+-----
+
+===== h137 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h137_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h137_after.jpg
+Answer questions: [h137] Box 1, [h137] Box 2, [h137] Box 3, [h137] Box 4, [h137] Box 5, [h137] Box 6, [h137] Box 7, [h137] Box 8
+Options for every box, in this order:
+A. Not a documented objective.
+B. Improve toilets, changing rooms and storage to meet players’ needs.
+C. Provide safe, high-standard netball playing facilities ready for the season.
+D. Increase the number of usable netball courts from 18 to 21.
+E. Encourage women and girls to get active through community netball.
+F. No change here.
+TEXT:
+-----
+Project brief:
+Elevated aerial view across the Minogue Park netball courts toward the red-roof clubhouse, with grassy perimeter slopes and rear fenced courts.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Improve toilets, changing rooms and storage to meet players’ needs.
+C. Provide safe, high-standard netball playing facilities ready for the season.
+D. Increase the number of usable netball courts from 18 to 21.
+E. Encourage women and girls to get active through community netball.
+F. No change here.
+-----
+
+===== h138 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h138_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h138_after.jpg
+Answer questions: [h138] Box 1, [h138] Box 2, [h138] Box 3, [h138] Box 4
+Options for every box, in this order:
+A. Not a documented objective.
+B. Provide public shelter zones and increased landscaped areas
+C. No change here.
+D. Improve junction geometry so pedestrians cross safely and traffic flows more smoothly
+TEXT:
+-----
+Project brief:
+An aerial view from a drone over a triangular road junction in Shillong, with a curved road edge beside a landscaped compound on the left.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Provide public shelter zones and increased landscaped areas
+C. No change here.
+D. Improve junction geometry so pedestrians cross safely and traffic flows more smoothly
+-----
+
+===== h142 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h142_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h142_after.jpg
+Answer questions: [h142] Box 1, [h142] Box 2, [h142] Box 3, [h142] Box 4, [h142] Box 5, [h142] Box 6, [h142] Box 7
+Options for every box, in this order:
+A. Not a documented objective.
+B. Create a more calming and comfortable care environment.
+C. Continue Shanghai architectural heritage in the hospital's appearance.
+D. Improve patient circulation and sightlines for efficient visits.
+E. No change here.
+TEXT:
+-----
+Project brief:
+The street-facing outpatient building at Shanghai General Hospital's north campus, viewed from across the street.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Create a more calming and comfortable care environment.
+C. Continue Shanghai architectural heritage in the hospital's appearance.
+D. Improve patient circulation and sightlines for efficient visits.
+E. No change here.
+-----
+
+===== h143 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h143_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h143_after.jpg
+Answer questions: [h143] Box 1, [h143] Box 2, [h143] Box 3, [h143] Box 4
+Options for every box, in this order:
+A. Not a documented objective.
+B. Increase public open space in North Melbourne.
+C. Improve biodiversity in Melbourne.
+D. No change here.
+E. Provide the opportunity for informal recreation.
+F. Improve pedestrian and cyclist safety.
+G. Assist in cooling the local environment.
+TEXT:
+-----
+Project brief:
+A view across a road junction toward Errol Street Reserve, a park with a grass verge and trees, and a brick building across the street in North Melbourne.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Increase public open space in North Melbourne.
+C. Improve biodiversity in Melbourne.
+D. No change here.
+E. Provide the opportunity for informal recreation.
+F. Improve pedestrian and cyclist safety.
+G. Assist in cooling the local environment.
+-----
+
+===== h144 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h144_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h144_after.jpg
+Answer questions: [h144] Box 1, [h144] Box 2, [h144] Box 3, [h144] Box 4, [h144] Box 5, [h144] Box 6
+Options for every box, in this order:
+A. Conserve original shopfront facades and architectural details around the square.
+B. To renew the city's main streets.
+C. Increase dedicated curbside car parking spaces beside the shops.
+D. Not a documented objective.
+E. No change here.
+TEXT:
+-----
+Project brief:
+Looking across the Katzenelson–Sirkin junction toward street-level shops and Noah Square in Givatayim, with the roadway in the foreground.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Conserve original shopfront facades and architectural details around the square.
+B. To renew the city's main streets.
+C. Increase dedicated curbside car parking spaces beside the shops.
+D. Not a documented objective.
+E. No change here.
+-----
+
+===== h146 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h146_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h146_after.jpg
+Answer questions: [h146] Box 1, [h146] Box 2, [h146] Box 3, [h146] Box 4, [h146] Box 5, [h146] Box 6, [h146] Box 7
+Options for every box, in this order:
+A. Give pedestrians more room and priority along Liverpool Street.
+B. Improve access to Mathers Place.
+C. Increase opportunities for outdoor dining along the street.
+D. Not a documented objective.
+E. Slow motor traffic through this block with a lower speed environment.
+F. Support retail trading in the city centre.
+G. Create a street environment shared more comfortably by different users.
+H. No change here.
+TEXT:
+-----
+Project brief:
+Looking east along the one-way Liverpool Street commercial block in central Hobart, between Elizabeth and Murray Streets, from within the carriageway.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Give pedestrians more room and priority along Liverpool Street.
+B. Improve access to Mathers Place.
+C. Increase opportunities for outdoor dining along the street.
+D. Not a documented objective.
+E. Slow motor traffic through this block with a lower speed environment.
+F. Support retail trading in the city centre.
+G. Create a street environment shared more comfortably by different users.
+H. No change here.
+-----
+
+===== h149 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h149_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h149_after.jpg
+Answer questions: [h149] Box 1, [h149] Box 2, [h149] Box 3, [h149] Box 4, [h149] Box 5, [h149] Box 6, [h149] Box 7, [h149] Box 8
+Options for every box, in this order:
+A. No change here.
+B. Enhance pedestrian space beneath the ramps with easier walking, landscaping and lighting.
+C. Not a documented objective.
+D. Filter and slow highway runoff while watering new planter vegetation.
+TEXT:
+-----
+Project brief:
+The camera faces forward beneath the Queensboro Bridge ramps along Dutch Kills Street, between a chain-link storage-lot fence on the left and large bridge piers beside the roadway on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Enhance pedestrian space beneath the ramps with easier walking, landscaping and lighting.
+C. Not a documented objective.
+D. Filter and slow highway runoff while watering new planter vegetation.
+-----
+
+===== h156 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h156_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h156_after.jpg
+Answer questions: [h156] Box 1, [h156] Box 2, [h156] Box 3, [h156] Box 4, [h156] Box 5, [h156] Box 6, [h156] Box 7
+Options for every box, in this order:
+A. Increase biodiversity and provide habitat for native animals
+B. Replace woody weeds along the creek line with native River-flat Eucalypt Forest
+C. No change here.
+D. Not a documented objective.
+TEXT:
+-----
+Project brief:
+Top-down drone view of a curved creek-line reach in a reserve, between a paddock with planted rows above and an open grassy paddock below.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Increase biodiversity and provide habitat for native animals
+B. Replace woody weeds along the creek line with native River-flat Eucalypt Forest
+C. No change here.
+D. Not a documented objective.
+-----
+
+===== h166 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h166_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h166_after.jpg
+Answer questions: [h166] Box 1, [h166] Box 2, [h166] Box 3, [h166] Box 4, [h166] Box 5, [h166] Box 6
+Options for every box, in this order:
+A. No change here.
+B. Improve the urban streetscape.
+C. Not a documented objective.
+D. Improve accessibility and safety for pedestrians.
+E. Organize on-street parking and discourage improper parking.
+TEXT:
+-----
+Project brief:
+A street junction in Polanco, Mexico City, viewed along Calle Julio Verne from the intersection.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Improve the urban streetscape.
+C. Not a documented objective.
+D. Improve accessibility and safety for pedestrians.
+E. Organize on-street parking and discourage improper parking.
+-----
+
+===== h173 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h173_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h173_after.jpg
+Answer questions: [h173] Box 1, [h173] Box 2, [h173] Box 3, [h173] Box 4, [h173] Box 5, [h173] Box 6, [h173] Box 7
+Options for every box, in this order:
+A. Support major urban development projects.
+B. Respond to continually growing travel needs.
+C. Not a documented objective.
+D. Increase the competitiveness and attractiveness of Dijon-area transport.
+E. Continue a policy of sustainable development.
+F. No change here.
+TEXT:
+-----
+Project brief:
+Street-level view along Boulevard de la Trémouille in Dijon, with building-frontage trees and pavement to the left and a planted public square to the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Support major urban development projects.
+B. Respond to continually growing travel needs.
+C. Not a documented objective.
+D. Increase the competitiveness and attractiveness of Dijon-area transport.
+E. Continue a policy of sustainable development.
+F. No change here.
+-----
+
+===== h175 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h175_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h175_after.jpg
+Answer questions: [h175] Box 1, [h175] Box 2, [h175] Box 3, [h175] Box 4, [h175] Box 5
+Options for every box, in this order:
+A. Improve pedestrian and bicycle movement along the highway.
+B. No change here.
+C. Not a documented objective.
+D. Provide a smoother ride for motorists through roadway rehabilitation.
+TEXT:
+-----
+Project brief:
+State Route 49 in Auburn, viewed south along the road between Palm Avenue and Marguerite Mine Road, from the roadside on the left.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve pedestrian and bicycle movement along the highway.
+B. No change here.
+C. Not a documented objective.
+D. Provide a smoother ride for motorists through roadway rehabilitation.
+-----
+
+===== h176 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h176_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h176_after.jpg
+Answer questions: [h176] Box 1, [h176] Box 2, [h176] Box 3, [h176] Box 4
+Options for every box, in this order:
+A. No change here.
+B. Not a documented objective.
+C. Allow consolidation and room for expansion in one neighborhood
+D. Keep vehicle speeds low and discourage through traffic
+E. Emphasize pedestrians and provide amenities for them
+TEXT:
+-----
+Project brief:
+A city street in South Lake Union, Seattle, seen from the left-hand kerb, looking along a roadway with streetcar tracks; buildings line both sides.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Not a documented objective.
+C. Allow consolidation and room for expansion in one neighborhood
+D. Keep vehicle speeds low and discourage through traffic
+E. Emphasize pedestrians and provide amenities for them
+-----
+
+===== h177 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9
+Before image: https://hosamgen.github.io/t1-study-assets/images/h177_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h177_after.jpg
+Answer questions: [h177] Box 1, [h177] Box 2, [h177] Box 3, [h177] Box 4, [h177] Box 5, [h177] Box 6, [h177] Box 7, [h177] Box 8, [h177] Box 9
+Options for every box, in this order:
+A. Improve connections among taxi, bus and bicycle travel near the station.
+B. No change here.
+C. Make pedestrian movement safer and improve links with the central city area.
+D. Improve public space adjacent to the main bus station.
+E. Not a documented objective.
+F. Make road traffic safer through better street layout and managed vehicle movements.
+TEXT:
+-----
+Project brief:
+Looking along Parnell Place from the south end of the junction towards Cork city centre, with pubs on the right and the vehicle carriageway to the left.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve connections among taxi, bus and bicycle travel near the station.
+B. No change here.
+C. Make pedestrian movement safer and improve links with the central city area.
+D. Improve public space adjacent to the main bus station.
+E. Not a documented objective.
+F. Make road traffic safer through better street layout and managed vehicle movements.
+-----
+
+===== h178 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h178_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h178_after.jpg
+Answer questions: [h178] Box 1, [h178] Box 2, [h178] Box 3, [h178] Box 4, [h178] Box 5, [h178] Box 6, [h178] Box 7
+Options for every box, in this order:
+A. Provide shade for pedestrians along the prefectural road
+B. Improve nighttime illumination along the prefectural road
+C. Secure pedestrian safety on the prefectural road
+D. No change here.
+E. Not a documented objective.
+TEXT:
+-----
+Project brief:
+A straight two-lane prefectural road in a rural area, seen from the carriageway looking along it, with fields and a bamboo grove on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Provide shade for pedestrians along the prefectural road
+B. Improve nighttime illumination along the prefectural road
+C. Secure pedestrian safety on the prefectural road
+D. No change here.
+E. Not a documented objective.
+-----
+
+===== h182 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h182_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h182_after.jpg
+Answer questions: [h182] Box 1, [h182] Box 2, [h182] Box 3, [h182] Box 4, [h182] Box 5, [h182] Box 6
+Options for every box, in this order:
+A. Give pedestrians more room and comfort by widening and upgrading the sidewalks
+B. No change here.
+C. Make the historic monument friendlier to pedestrians and slow down cars around it
+D. Not a documented objective.
+E. Provide a cycle lane so cyclists can move comfortably and safely along the street
+F. Provide shade and thermal comfort in rest areas with new trees
+TEXT:
+-----
+Project brief:
+A wide road junction around a column monument in a historic city centre, seen from the roadway with a pedestrian crossing in the foreground.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Give pedestrians more room and comfort by widening and upgrading the sidewalks
+B. No change here.
+C. Make the historic monument friendlier to pedestrians and slow down cars around it
+D. Not a documented objective.
+E. Provide a cycle lane so cyclists can move comfortably and safely along the street
+F. Provide shade and thermal comfort in rest areas with new trees
+-----
+
+===== h186 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h186_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h186_after.jpg
+Answer questions: [h186] Box 1, [h186] Box 2, [h186] Box 3, [h186] Box 4, [h186] Box 5, [h186] Box 6, [h186] Box 7, [h186] Box 8
+Options for every box, in this order:
+A. Improve access to businesses and properties along the corridor.
+B. Accommodate outdoor dining along the improved sidewalks.
+C. Lower vehicle speeds to create a safer pedestrian environment.
+D. Strengthen a recognizable, visually cohesive arts-district identity.
+E. No change here.
+F. Not a documented objective.
+TEXT:
+-----
+Project brief:
+The camera faces the St. Cloud Corner restaurant at Church Street and Fifth Avenue North, with both downtown streets visible.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve access to businesses and properties along the corridor.
+B. Accommodate outdoor dining along the improved sidewalks.
+C. Lower vehicle speeds to create a safer pedestrian environment.
+D. Strengthen a recognizable, visually cohesive arts-district identity.
+E. No change here.
+F. Not a documented objective.
+-----
+
+===== h188 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h188_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h188_after.jpg
+Answer questions: [h188] Box 1, [h188] Box 2, [h188] Box 3, [h188] Box 4, [h188] Box 5, [h188] Box 6
+Options for every box, in this order:
+A. Give shared-path users priority over road users for safer crossing.
+B. No change here.
+C. Deliver path users directly to the school gate without affecting school transport.
+D. Not a documented objective.
+E. Provide a separated off-road option through the Clyde Street signal junction.
+TEXT:
+-----
+Project brief:
+The view looks out from John Hooker Street across its junction with Hubbard Street toward the houses opposite in Islington.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Give shared-path users priority over road users for safer crossing.
+B. No change here.
+C. Deliver path users directly to the school gate without affecting school transport.
+D. Not a documented objective.
+E. Provide a separated off-road option through the Clyde Street signal junction.
+-----
+
+===== h190 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h190_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h190_after.jpg
+Answer questions: [h190] Box 1, [h190] Box 2, [h190] Box 3, [h190] Box 4, [h190] Box 5, [h190] Box 6, [h190] Box 7, [h190] Box 8
+Options for every box, in this order:
+A. Consider urban landscape quality at the Omotesando intersection.
+B. No change here.
+C. Not a documented objective.
+D. Make the junction easier to cross without climbing stairs or facing accessibility barriers.
+TEXT:
+-----
+Project brief:
+Street-level view from the curved approach to Jingubashi Intersection outside Harajuku Station, looking across Omotesando toward a brick building and roadside trees.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Consider urban landscape quality at the Omotesando intersection.
+B. No change here.
+C. Not a documented objective.
+D. Make the junction easier to cross without climbing stairs or facing accessibility barriers.
+-----
+
+===== h191 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h191_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h191_after.jpg
+Answer questions: [h191] Box 1, [h191] Box 2, [h191] Box 3, [h191] Box 4, [h191] Box 5, [h191] Box 6
+Options for every box, in this order:
+A. Promote a water-friendly culture through connectivity with the channel bank.
+B. Not a documented objective.
+C. Restore biodiversity and create varied aquatic habitats in the channel.
+D. Give the public a resting and viewing space over the channel.
+E. No change here.
+F. Green the concrete channel so it blends in with the community.
+TEXT:
+-----
+Project brief:
+A downstream stretch of the Jordan Valley nullah in Ngau Tau Kok, Hong Kong, seen from the channel floor between its masonry walls, looking toward a distant crossing.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Promote a water-friendly culture through connectivity with the channel bank.
+B. Not a documented objective.
+C. Restore biodiversity and create varied aquatic habitats in the channel.
+D. Give the public a resting and viewing space over the channel.
+E. No change here.
+F. Green the concrete channel so it blends in with the community.
+-----
+
+===== h194 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Before image: https://hosamgen.github.io/t1-study-assets/images/h194_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h194_after.jpg
+Answer questions: [h194] Box 1, [h194] Box 2, [h194] Box 3, [h194] Box 4, [h194] Box 5, [h194] Box 6, [h194] Box 7, [h194] Box 8, [h194] Box 9, [h194] Box 10
+Options for every box, in this order:
+A. Not a documented objective.
+B. Remedy gaps in everyday public facilities for residents.
+C. Improve local environmental conditions around the neighborhood.
+D. Clarify traffic movement and separate pedestrians from vehicles.
+E. No change here.
+F. Improve everyday passage along the deteriorated neighborhood road.
+TEXT:
+-----
+Project brief:
+Looking straight down the southern back-lane road from street level, with apartment blocks on the left and shopfront buildings on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Remedy gaps in everyday public facilities for residents.
+C. Improve local environmental conditions around the neighborhood.
+D. Clarify traffic movement and separate pedestrians from vehicles.
+E. No change here.
+F. Improve everyday passage along the deteriorated neighborhood road.
+-----
+
+===== h195 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h195_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h195_after.jpg
+Answer questions: [h195] Box 1, [h195] Box 2, [h195] Box 3, [h195] Box 4, [h195] Box 5, [h195] Box 6, [h195] Box 7
+Options for every box, in this order:
+A. Beautify the Des Voeux Road Central tram stop to reflect Western Market’s style.
+B. Create a new neighbourhood hub for community activities near Western Market.
+C. Help visitors find prominent features across the district.
+D. Promote social and economic activity around Western Market.
+E. No change here.
+F. Celebrate Sheung Wan’s historic trades and Chinese–Western cultural convergence.
+G. Not a documented objective.
+TEXT:
+-----
+Project brief:
+View eastward along the tram island on Des Voeux Road Central near Western Market, from the roadway beside the western end of the stop.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Beautify the Des Voeux Road Central tram stop to reflect Western Market’s style.
+B. Create a new neighbourhood hub for community activities near Western Market.
+C. Help visitors find prominent features across the district.
+D. Promote social and economic activity around Western Market.
+E. No change here.
+F. Celebrate Sheung Wan’s historic trades and Chinese–Western cultural convergence.
+G. Not a documented objective.
+-----
+
+===== h196 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h196_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h196_after.jpg
+Answer questions: [h196] Box 1, [h196] Box 2, [h196] Box 3, [h196] Box 4, [h196] Box 5, [h196] Box 6, [h196] Box 7
+Options for every box, in this order:
+A. No change here.
+B. Support cultural and arts uses in restored historic houses.
+C. Not a documented objective.
+D. Increase national and international awareness of the historic district and foster cooperation.
+E. Preserve and revitalize Hamamarkası’s historic urban fabric.
+TEXT:
+-----
+Project brief:
+An elevated roadside viewpoint looks across Hamamarkası Meydanı toward historic houses by Talatpaşa Boulevard in Ankara.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Support cultural and arts uses in restored historic houses.
+C. Not a documented objective.
+D. Increase national and international awareness of the historic district and foster cooperation.
+E. Preserve and revitalize Hamamarkası’s historic urban fabric.
+-----
+
+===== h198 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h198_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h198_after.jpg
+Answer questions: [h198] Box 1, [h198] Box 2, [h198] Box 3, [h198] Box 4, [h198] Box 5, [h198] Box 6
+Options for every box, in this order:
+A. Create a more dynamic and interesting civic square
+B. No change here.
+C. Allow the square to function flexibly for daytime and nighttime culture
+D. Make a seamless visual and physical link between Forrest Place and Perth Station forecourt
+E. Not a documented objective.
+TEXT:
+-----
+Project brief:
+View northeast along Wellington Street at the entrance to Forrest Place, with the office-block frontage on the left and Perth Station forecourt across the street to the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Create a more dynamic and interesting civic square
+B. No change here.
+C. Allow the square to function flexibly for daytime and nighttime culture
+D. Make a seamless visual and physical link between Forrest Place and Perth Station forecourt
+E. Not a documented objective.
+-----
+
+===== h201 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h201_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h201_after.jpg
+Answer questions: [h201] Box 1, [h201] Box 2, [h201] Box 3, [h201] Box 4, [h201] Box 5, [h201] Box 6
+Options for every box, in this order:
+A. No change here.
+B. Not a documented objective.
+C. Provide welcoming recreation opportunities for university users, local youth and neighbouring communities.
+D. Make the former Spence Street right-of-way usable by pedestrians and cyclists.
+E. Make sustainability a priority in the new campus development.
+TEXT:
+-----
+Project brief:
+View along Spence Street at the University of Winnipeg campus, with an older campus building to the left and the former tree-lined frontage to the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Not a documented objective.
+C. Provide welcoming recreation opportunities for university users, local youth and neighbouring communities.
+D. Make the former Spence Street right-of-way usable by pedestrians and cyclists.
+E. Make sustainability a priority in the new campus development.
+-----
+
+===== h202 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h202_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h202_after.jpg
+Answer questions: [h202] Box 1, [h202] Box 2, [h202] Box 3, [h202] Box 4, [h202] Box 5, [h202] Box 6
+Options for every box, in this order:
+A. Make better use of the public space at this corner
+B. Widen the sidewalk so pedestrians can cross more easily
+C. Not a documented objective.
+D. No change here.
+TEXT:
+-----
+Project brief:
+A street corner in Palermo, Buenos Aires, where a tall white apartment block has shopfronts at street level and the road runs along its front; the camera stands in the road facing the corner.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Make better use of the public space at this corner
+B. Widen the sidewalk so pedestrians can cross more easily
+C. Not a documented objective.
+D. No change here.
+-----
+
+===== h204 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h204_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h204_after.jpg
+Answer questions: [h204] Box 1, [h204] Box 2, [h204] Box 3, [h204] Box 4, [h204] Box 5, [h204] Box 6, [h204] Box 7
+Options for every box, in this order:
+A. Encourage people to visit, stroll through and use the square’s amenities
+B. No change here.
+C. Make avenue crossings safer for pedestrians, especially in the tourist season
+D. Encourage people to use alternatives to private cars for local trips
+E. Reduce the number of vehicles occupying streets
+F. Not a documented objective.
+TEXT:
+-----
+Project brief:
+Looking northeast along Avenida Atlântica toward the oceanfront Praça Almirante Tamandaré, with the street in the foreground and the square on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Encourage people to visit, stroll through and use the square’s amenities
+B. No change here.
+C. Make avenue crossings safer for pedestrians, especially in the tourist season
+D. Encourage people to use alternatives to private cars for local trips
+E. Reduce the number of vehicles occupying streets
+F. Not a documented objective.
+-----
+
+===== h205 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h205_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h205_after.jpg
+Answer questions: [h205] Box 1, [h205] Box 2, [h205] Box 3, [h205] Box 4, [h205] Box 5, [h205] Box 6, [h205] Box 7
+Options for every box, in this order:
+A. Not a documented objective.
+B. Keep air flowing through the enclosed dining space.
+C. Make the former carport usable for dining in every season.
+D. No change here.
+TEXT:
+-----
+Project brief:
+The street-level frontage of a pub in a brick building, seen from the car park, with a roofed bay under a pale concrete beam.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Keep air flowing through the enclosed dining space.
+C. Make the former carport usable for dining in every season.
+D. No change here.
+-----
+
+===== h208 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h208_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h208_after.jpg
+Answer questions: [h208] Box 1, [h208] Box 2, [h208] Box 3, [h208] Box 4
+Options for every box, in this order:
+A. Give back the identity image of the Lombard landscape
+B. Make the public space liveable, usable and safe for the people who use it
+C. No change here.
+D. Not a documented objective.
+TEXT:
+-----
+Project brief:
+A Milan street junction with a paved square and a traffic island on the left, tall office blocks behind, seen from street level across the junction.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Give back the identity image of the Lombard landscape
+B. Make the public space liveable, usable and safe for the people who use it
+C. No change here.
+D. Not a documented objective.
+-----
+
+===== h215 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h215_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h215_after.jpg
+Answer questions: [h215] Box 1, [h215] Box 2, [h215] Box 3, [h215] Box 4, [h215] Box 5
+Options for every box, in this order:
+A. Restore the west and north garden entrances to widen access to the garden
+B. Not a documented objective.
+C. No change here.
+D. Make the garden a space for varied activities of kindergarten, parents, borough and neighbours
+E. Remove rainwater leakage into the workshop and perimeter wall
+F. Return the villa's original colour and scratched-render material, respecting the architect's concept
+TEXT:
+-----
+Project brief:
+A kindergarten garden lawn at the foot of a stone retaining wall, with a villa and a pergola on the terrace above; the camera stands on the lawn facing the wall.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Restore the west and north garden entrances to widen access to the garden
+B. Not a documented objective.
+C. No change here.
+D. Make the garden a space for varied activities of kindergarten, parents, borough and neighbours
+E. Remove rainwater leakage into the workshop and perimeter wall
+F. Return the villa's original colour and scratched-render material, respecting the architect's concept
+-----
+
+===== h217 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h217_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h217_after.jpg
+Answer questions: [h217] Box 1, [h217] Box 2, [h217] Box 3, [h217] Box 4, [h217] Box 5, [h217] Box 6
+Options for every box, in this order:
+A. Provide flowering shrubs and trees as food for insects.
+B. Open more light-filled spots between the trees for more kinds of animals and plants.
+C. Let trees grow old and leave rotting trunks and branches on the forest floor.
+D. No change here.
+E. Let the forest's water flow freely again, without pipes and straight ditches.
+F. Not a documented objective.
+TEXT:
+-----
+Project brief:
+An open grazed meadow at the edge of a Danish forest, photographed from the meadow looking toward the tree line.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Provide flowering shrubs and trees as food for insects.
+B. Open more light-filled spots between the trees for more kinds of animals and plants.
+C. Let trees grow old and leave rotting trunks and branches on the forest floor.
+D. No change here.
+E. Let the forest's water flow freely again, without pipes and straight ditches.
+F. Not a documented objective.
+-----
+
+===== h222 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h222_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h222_after.jpg
+Answer questions: [h222] Box 1, [h222] Box 2, [h222] Box 3, [h222] Box 4, [h222] Box 5
+Options for every box, in this order:
+A. Prepare residents progressively and safely for tram operations.
+B. Strengthen integrated public transport through central Rio.
+C. Not a documented objective.
+D. No change here.
+E. Support more sustainable travel using clean-energy public transport.
+TEXT:
+-----
+Project brief:
+Looking down Rua da Constituição toward Saara in central Rio, from above the roadway between historic shopfront buildings.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Prepare residents progressively and safely for tram operations.
+B. Strengthen integrated public transport through central Rio.
+C. Not a documented objective.
+D. No change here.
+E. Support more sustainable travel using clean-energy public transport.
+-----
+
+===== h223 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h223_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h223_after.jpg
+Answer questions: [h223] Box 1, [h223] Box 2, [h223] Box 3, [h223] Box 4, [h223] Box 5, [h223] Box 6, [h223] Box 7
+Options for every box, in this order:
+A. Not a documented objective.
+B. No change here.
+C. Improve nighttime visibility at the crossing with new bridge lighting.
+D. Clarify traffic priority over the bridge with new pavement markings.
+E. Restore access to underground utilities by replacing deteriorated street access covers.
+F. Renew deteriorated bridge road paving and protective barriers.
+TEXT:
+-----
+Project brief:
+A narrow residential road crossing the short Otori-higashi No. 1 road bridge, viewed from its near southern approach toward houses along the street.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. No change here.
+C. Improve nighttime visibility at the crossing with new bridge lighting.
+D. Clarify traffic priority over the bridge with new pavement markings.
+E. Restore access to underground utilities by replacing deteriorated street access covers.
+F. Renew deteriorated bridge road paving and protective barriers.
+-----
+
+===== h228 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h228_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h228_after.jpg
+Answer questions: [h228] Box 1, [h228] Box 2, [h228] Box 3, [h228] Box 4
+Options for every box, in this order:
+A. Meet varied customer needs through shared tea rooms, kitchen and dining.
+B. Protect historic walls from rain damage, shedding and collapse.
+C. Make the courtyard usable for tea and rest around retained trees.
+D. No change here.
+E. Not a documented objective.
+TEXT:
+-----
+Project brief:
+An overhead view into the roofless historic wall compartments and planted courtyard of Huifu teahouse in Xiamen.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Meet varied customer needs through shared tea rooms, kitchen and dining.
+B. Protect historic walls from rain damage, shedding and collapse.
+C. Make the courtyard usable for tea and rest around retained trees.
+D. No change here.
+E. Not a documented objective.
+-----
+
+===== h230 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h230_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h230_after.jpg
+Answer questions: [h230] Box 1, [h230] Box 2, [h230] Box 3, [h230] Box 4, [h230] Box 5, [h230] Box 6, [h230] Box 7
+Options for every box, in this order:
+A. Improve the pedestrian connection between Railway Square and Chinatown, including UTS.
+B. Not a documented objective.
+C. No change here.
+D. Improve the pedestrian amenity of Quay Street.
+E. Maintain some on-street parking along Quay Street.
+F. Improve the character of Quay Street.
+TEXT:
+-----
+Project brief:
+A street-level view along Quay Street in Haymarket, Sydney, with shops and mature trees on the left and a building frontage on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve the pedestrian connection between Railway Square and Chinatown, including UTS.
+B. Not a documented objective.
+C. No change here.
+D. Improve the pedestrian amenity of Quay Street.
+E. Maintain some on-street parking along Quay Street.
+F. Improve the character of Quay Street.
+-----
+
+===== h231 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h231_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h231_after.jpg
+Answer questions: [h231] Box 1, [h231] Box 2, [h231] Box 3, [h231] Box 4, [h231] Box 5, [h231] Box 6, [h231] Box 7
+Options for every box, in this order:
+A. Make the old industrial quarter an inviting open-air public place for cultural activity.
+B. Slow motor traffic and give pedestrians priority in the shared street space.
+C. No change here.
+D. Not a documented objective.
+TEXT:
+-----
+Project brief:
+View looking down Barshavski Street between multi-storey commercial-industrial buildings in the old Harova district of Rishon LeZion.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Make the old industrial quarter an inviting open-air public place for cultural activity.
+B. Slow motor traffic and give pedestrians priority in the shared street space.
+C. No change here.
+D. Not a documented objective.
+-----
+
+===== h232 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h232_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h232_after.jpg
+Answer questions: [h232] Box 1, [h232] Box 2, [h232] Box 3, [h232] Box 4
+Options for every box, in this order:
+A. No change here.
+B. Requalify, enhance and preserve the urban heritage of the historic centre
+C. Not a documented objective.
+D. Discourage vehicle traffic and ensure conditions for pedestrian access
+E. Make drivers slow down so pedestrians can cross safely
+TEXT:
+-----
+Project brief:
+A historic-centre street lined with shops and awnings on the right and a fenced car park on the left, photographed from the carriageway looking down the street.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Requalify, enhance and preserve the urban heritage of the historic centre
+C. Not a documented objective.
+D. Discourage vehicle traffic and ensure conditions for pedestrian access
+E. Make drivers slow down so pedestrians can cross safely
+-----
+
+===== h235 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h235_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h235_after.jpg
+Answer questions: [h235] Box 1, [h235] Box 2, [h235] Box 3, [h235] Box 4, [h235] Box 5, [h235] Box 6, [h235] Box 7
+Options for every box, in this order:
+A. Improve environmental quality along the corridor.
+B. Not a documented objective.
+C. No change here.
+D. Improve the quality of journeys for bus passengers.
+E. Reduce bus travel times and make public transport operations more regular.
+F. Improve road safety along the corridor.
+TEXT:
+-----
+Project brief:
+View down Avenida Cabildo from the left-hand carriageway toward the central median and storefronts on the right, in Buenos Aires.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve environmental quality along the corridor.
+B. Not a documented objective.
+C. No change here.
+D. Improve the quality of journeys for bus passengers.
+E. Reduce bus travel times and make public transport operations more regular.
+F. Improve road safety along the corridor.
+-----
+
+===== h239 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h239_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h239_after.jpg
+Answer questions: [h239] Box 1, [h239] Box 2, [h239] Box 3, [h239] Box 4, [h239] Box 5, [h239] Box 6, [h239] Box 7
+Options for every box, in this order:
+A. Not a documented objective.
+B. Provide protected, sheltered waiting places for passengers at bus stops.
+C. Provide continuous, clear pedestrian passage and reduce pedestrian–vehicle conflict.
+D. No change here.
+E. Provide a continuous, marked travel route for cyclists along the corridor.
+TEXT:
+-----
+Project brief:
+An oblique view along the tree-lined footpath on Bellasis Road, looking past a large foreground tree toward the City Centre building across the roadway.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Provide protected, sheltered waiting places for passengers at bus stops.
+C. Provide continuous, clear pedestrian passage and reduce pedestrian–vehicle conflict.
+D. No change here.
+E. Provide a continuous, marked travel route for cyclists along the corridor.
+-----
+
+===== h240 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h240_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h240_after.jpg
+Answer questions: [h240] Box 1, [h240] Box 2, [h240] Box 3, [h240] Box 4, [h240] Box 5, [h240] Box 6, [h240] Box 7
+Options for every box, in this order:
+A. Provide dedicated cycling facilities and bicycle parking around the park.
+B. Make street-side wayfinding clearer for pedestrians.
+C. Provide passive green public space in a neighborhood lacking parks.
+D. Not a documented objective.
+E. No change here.
+TEXT:
+-----
+Project brief:
+Street-level view from the pavement across Centre Street toward the former parking lot now occupied by Collect Pond Park in Lower Manhattan.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Provide dedicated cycling facilities and bicycle parking around the park.
+B. Make street-side wayfinding clearer for pedestrians.
+C. Provide passive green public space in a neighborhood lacking parks.
+D. Not a documented objective.
+E. No change here.
+-----
+
+===== h242 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h242_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h242_after.jpg
+Answer questions: [h242] Box 1, [h242] Box 2, [h242] Box 3, [h242] Box 4, [h242] Box 5, [h242] Box 6, [h242] Box 7
+Options for every box, in this order:
+A. Make walking between the waterfront park areas easier and more comfortable.
+B. Give park visitors more places to get food.
+C. Not a documented objective.
+D. Reduce illegal parking near the park entrance.
+E. Restore the historic character of waterfront streets and sidewalks.
+F. No change here.
+TEXT:
+-----
+Project brief:
+Looking across Water Street toward the waterfront plaza and kiosk under the Brooklyn Bridge near Old Fulton Street, Brooklyn.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Make walking between the waterfront park areas easier and more comfortable.
+B. Give park visitors more places to get food.
+C. Not a documented objective.
+D. Reduce illegal parking near the park entrance.
+E. Restore the historic character of waterfront streets and sidewalks.
+F. No change here.
+-----
+
+===== h247 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h247_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h247_after.jpg
+Answer questions: [h247] Box 1, [h247] Box 2, [h247] Box 3, [h247] Box 4, [h247] Box 5, [h247] Box 6, [h247] Box 7, [h247] Box 8
+Options for every box, in this order:
+A. No change here.
+B. Not a documented objective.
+C. Improve accessibility to local businesses.
+D. Make New Lynn town centre more attractive and pedestrian-friendly.
+TEXT:
+-----
+Project brief:
+Street-level view from the Delta Avenue approach toward its junction with Great North Road and the shops of New Lynn.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Not a documented objective.
+C. Improve accessibility to local businesses.
+D. Make New Lynn town centre more attractive and pedestrian-friendly.
+-----
+
+===== h250 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h250_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h250_after.jpg
+Answer questions: [h250] Box 1, [h250] Box 2, [h250] Box 3, [h250] Box 4
+Options for every box, in this order:
+A. Not a documented objective.
+B. No change here.
+C. Strengthen the connection between the market and Saint-Laurent Boulevard.
+D. Create a neighbourhood place for socialising and relaxation.
+E. Encourage active transportation.
+TEXT:
+-----
+Project brief:
+A view along Avenue Shamrock from its intersection with Rue Saint-Dominique in Montréal.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. No change here.
+C. Strengthen the connection between the market and Saint-Laurent Boulevard.
+D. Create a neighbourhood place for socialising and relaxation.
+E. Encourage active transportation.
+-----
+
+===== h251 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h251_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h251_after.jpg
+Answer questions: [h251] Box 1, [h251] Box 2, [h251] Box 3, [h251] Box 4, [h251] Box 5, [h251] Box 6, [h251] Box 7
+Options for every box, in this order:
+A. Increase privacy and screening between the park and adjacent residences.
+B. Not a documented objective.
+C. Make the park a brighter, welcoming resting place for people stopping during walks.
+D. Provide more shade and tree cover for people using the park in summer.
+E. No change here.
+TEXT:
+-----
+Project brief:
+A view from the near edge of a small neighborhood park in Sapporo toward the rear boundary, a pale-blue home, a brown home and mature trees.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Increase privacy and screening between the park and adjacent residences.
+B. Not a documented objective.
+C. Make the park a brighter, welcoming resting place for people stopping during walks.
+D. Provide more shade and tree cover for people using the park in summer.
+E. No change here.
+-----
+
+===== h252 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h252_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h252_after.jpg
+Answer questions: [h252] Box 1, [h252] Box 2, [h252] Box 3, [h252] Box 4, [h252] Box 5, [h252] Box 6, [h252] Box 7
+Options for every box, in this order:
+A. Give Kuźnicza Street and University Square a strolling-boulevard character.
+B. Exclude motor-vehicle traffic from Kuźnicza Street and University Square.
+C. No change here.
+D. Not a documented objective.
+TEXT:
+-----
+Project brief:
+A street-level view along Kuźnicza Street in central Wrocław from near the right-hand corner shop, looking down the street between commercial buildings.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Give Kuźnicza Street and University Square a strolling-boulevard character.
+B. Exclude motor-vehicle traffic from Kuźnicza Street and University Square.
+C. No change here.
+D. Not a documented objective.
+-----
+
+===== h253 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h253_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h253_after.jpg
+Answer questions: [h253] Box 1, [h253] Box 2, [h253] Box 3, [h253] Box 4, [h253] Box 5, [h253] Box 6, [h253] Box 7
+Options for every box, in this order:
+A. Preserve the avenue's original early-twentieth-century street layout.
+B. No change here.
+C. Strengthen the area's pedestrian character through a change in surface material.
+D. Not a documented objective.
+TEXT:
+-----
+Project brief:
+View down the Viale Romagna school-side service street from the crossing, with the stone school facade to the left and a tree-lined verge to the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Preserve the avenue's original early-twentieth-century street layout.
+B. No change here.
+C. Strengthen the area's pedestrian character through a change in surface material.
+D. Not a documented objective.
+-----
+
+===== h255 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h255_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h255_after.jpg
+Answer questions: [h255] Box 1, [h255] Box 2, [h255] Box 3, [h255] Box 4, [h255] Box 5
+Options for every box, in this order:
+A. No change here.
+B. Celebrate the unique character of the iconic maritime entry to the city
+C. Specifically benefit young families, with a focus on the port's maritime history
+D. Create a linear, connected waterfront precinct that strengthened links to the CBD
+E. Develop a significant, site-specific entry statement for the precinct
+F. Not a documented objective.
+TEXT:
+-----
+Project brief:
+The waterfront entrance to a port-side public precinct in Gladstone, seen from the road edge at street level, with the harbour and a moored yacht on the left.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Celebrate the unique character of the iconic maritime entry to the city
+C. Specifically benefit young families, with a focus on the port's maritime history
+D. Create a linear, connected waterfront precinct that strengthened links to the CBD
+E. Develop a significant, site-specific entry statement for the precinct
+F. Not a documented objective.
+-----
+
+===== h256 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h256_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h256_after.jpg
+Answer questions: [h256] Box 1, [h256] Box 2, [h256] Box 3, [h256] Box 4, [h256] Box 5, [h256] Box 6
+Options for every box, in this order:
+A. Not a documented objective.
+B. Provide continuous weather-protected walking space along the corridor.
+C. No change here.
+D. Prioritize walking along an urban corridor between Manquehue Metro and Parque Araucano.
+E. Expand the capacity of the underground parking entrance.
+TEXT:
+-----
+Project brief:
+Street-level view along Rosario Norte from Avenida Apoquindo toward Nueva Las Condes, with buildings on the left and a garage ramp on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Provide continuous weather-protected walking space along the corridor.
+C. No change here.
+D. Prioritize walking along an urban corridor between Manquehue Metro and Parque Araucano.
+E. Expand the capacity of the underground parking entrance.
+-----
+
+===== h257 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h257_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h257_after.jpg
+Answer questions: [h257] Box 1, [h257] Box 2, [h257] Box 3, [h257] Box 4, [h257] Box 5
+Options for every box, in this order:
+A. Provide safe walking space and reduce traffic accidents for pedestrians.
+B. Not a documented objective.
+C. Improve vehicle access to homes along the roadside.
+D. No change here.
+E. Increase capacity for through traffic along the road.
+TEXT:
+-----
+Project brief:
+A local road in Katsuyama, Japan, viewed along the carriageway toward a bend, with houses on the left and a hillside on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Provide safe walking space and reduce traffic accidents for pedestrians.
+B. Not a documented objective.
+C. Improve vehicle access to homes along the roadside.
+D. No change here.
+E. Increase capacity for through traffic along the road.
+-----
+
+===== h260 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h260_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h260_after.jpg
+Answer questions: [h260] Box 1, [h260] Box 2, [h260] Box 3, [h260] Box 4, [h260] Box 5, [h260] Box 6, [h260] Box 7
+Options for every box, in this order:
+A. Bring more natural daylight into the station interior.
+B. Not a documented objective.
+C. No change here.
+D. Create an inviting and attractive entrance for riders and the surrounding community.
+E. Ease entry and platform access and reduce bottlenecks during peak periods.
+F. Deter fare evasion through improvements inside the paid station area.
+G. Help approaching riders recognize the station through an identifiable vertical landmark.
+H. Protect waterways by capturing and filtering runoff from station parking areas.
+TEXT:
+-----
+Project brief:
+View looking along the curbside bus roadway toward the southwest exterior of an elevated transit station.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Bring more natural daylight into the station interior.
+B. Not a documented objective.
+C. No change here.
+D. Create an inviting and attractive entrance for riders and the surrounding community.
+E. Ease entry and platform access and reduce bottlenecks during peak periods.
+F. Deter fare evasion through improvements inside the paid station area.
+G. Help approaching riders recognize the station through an identifiable vertical landmark.
+H. Protect waterways by capturing and filtering runoff from station parking areas.
+-----
+
+===== h262 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h262_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h262_after.jpg
+Answer questions: [h262] Box 1, [h262] Box 2, [h262] Box 3, [h262] Box 4, [h262] Box 5, [h262] Box 6
+Options for every box, in this order:
+A. Improve pedestrian space between JR and Keikyu Kawasaki stations for easier interchange.
+B. Not a documented objective.
+C. Integrate station districts and foster urban development fitting the city gateway.
+D. No change here.
+E. Improve street safety, comfort and visual quality for people and the environment.
+TEXT:
+-----
+Project brief:
+Street-level view toward a covered station entrance beside Ekimae Honcho 11-2 in Kawasaki, with a side street on the left and a wide roadway crossing in front.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve pedestrian space between JR and Keikyu Kawasaki stations for easier interchange.
+B. Not a documented objective.
+C. Integrate station districts and foster urban development fitting the city gateway.
+D. No change here.
+E. Improve street safety, comfort and visual quality for people and the environment.
+-----
+
+===== h266 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h266_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h266_after.jpg
+Answer questions: [h266] Box 1, [h266] Box 2, [h266] Box 3, [h266] Box 4, [h266] Box 5
+Options for every box, in this order:
+A. Install wildlife-monitoring stations for long-term ecological research.
+B. Remove development and restore the sequoia grove's ecological health.
+C. Install wildfire-detection equipment for emergency response in the grove.
+D. Not a documented objective.
+E. No change here.
+TEXT:
+-----
+Project brief:
+A view downhill across a shallow hollow in the Giant Forest Lodge area, with the camera facing a cluster of cabins among mature sequoias.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Install wildlife-monitoring stations for long-term ecological research.
+B. Remove development and restore the sequoia grove's ecological health.
+C. Install wildfire-detection equipment for emergency response in the grove.
+D. Not a documented objective.
+E. No change here.
+-----
+
+===== h269 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h269_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h269_after.jpg
+Answer questions: [h269] Box 1, [h269] Box 2, [h269] Box 3, [h269] Box 4, [h269] Box 5, [h269] Box 6, [h269] Box 7
+Options for every box, in this order:
+A. Stimulate economic development around the restored canal.
+B. Improve the overall urban landscape around the canal.
+C. Not a documented objective.
+D. Restore the canal waterway’s ecological functions.
+E. Restore the waterway corridor for everyday public use.
+F. Improve water quality in the canal.
+G. No change here.
+TEXT:
+-----
+Project brief:
+A view along Hebei 2nd Road from the roadway, with the canal-side pedestrian edge to the right and buildings along both sides.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Stimulate economic development around the restored canal.
+B. Improve the overall urban landscape around the canal.
+C. Not a documented objective.
+D. Restore the canal waterway’s ecological functions.
+E. Restore the waterway corridor for everyday public use.
+F. Improve water quality in the canal.
+G. No change here.
+-----
+
+===== h270 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h270_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h270_after.jpg
+Answer questions: [h270] Box 1, [h270] Box 2, [h270] Box 3, [h270] Box 4
+Options for every box, in this order:
+A. Make transferring between buses and the metro easier.
+B. Improve access to Högalidspången.
+C. Give the redeveloped centre a strong local community connection.
+D. No change here.
+E. Create a car-free, urban-style public square.
+F. Not a documented objective.
+G. Improve both perceived security and traffic safety.
+TEXT:
+-----
+Project brief:
+A street-level view along Långholmsgatan toward an overhead pedestrian bridge, with the Hornstull retail frontage on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Make transferring between buses and the metro easier.
+B. Improve access to Högalidspången.
+C. Give the redeveloped centre a strong local community connection.
+D. No change here.
+E. Create a car-free, urban-style public square.
+F. Not a documented objective.
+G. Improve both perceived security and traffic safety.
+-----
+
+===== h274 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h274_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h274_after.jpg
+Answer questions: [h274] Box 1, [h274] Box 2, [h274] Box 3, [h274] Box 4, [h274] Box 5, [h274] Box 6
+Options for every box, in this order:
+A. Improve road safety, pedestrian mobility, and traffic flow through the junction.
+B. Remove architectural barriers and maintain accessible routes to residential areas.
+C. Not a documented objective.
+D. No change here.
+TEXT:
+-----
+Project brief:
+Street-level view from the Piazza Istria approach toward a multi-arm junction bordered by mid-rise apartment buildings and a tree-lined green verge in Rome.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve road safety, pedestrian mobility, and traffic flow through the junction.
+B. Remove architectural barriers and maintain accessible routes to residential areas.
+C. Not a documented objective.
+D. No change here.
+-----
+
+===== h276 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h276_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h276_after.jpg
+Answer questions: [h276] Box 1, [h276] Box 2, [h276] Box 3, [h276] Box 4
+Options for every box, in this order:
+A. Provide places to sit, rest and enjoy the view.
+B. Not a documented objective.
+C. Connect the railway station and the campus for pedestrians and cyclists.
+D. No change here.
+TEXT:
+-----
+Project brief:
+A view along Dr. George Wise Street at the edge of Tel Aviv University, looking along the road and hillside.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Provide places to sit, rest and enjoy the view.
+B. Not a documented objective.
+C. Connect the railway station and the campus for pedestrians and cyclists.
+D. No change here.
+-----
+
+===== h277 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h277_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h277_after.jpg
+Answer questions: [h277] Box 1, [h277] Box 2, [h277] Box 3, [h277] Box 4, [h277] Box 5, [h277] Box 6, [h277] Box 7
+Options for every box, in this order:
+A. No change here.
+B. Repair the deteriorated 1930s-40s concrete river channel.
+C. Explain the benefits and history of river naturalisation.
+D. Not a documented objective.
+E. Create habitat for native birds and animals.
+TEXT:
+-----
+Project brief:
+The Cooks River viewed from the opposite bank across the water toward a grassy residential riverbank.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. No change here.
+B. Repair the deteriorated 1930s-40s concrete river channel.
+C. Explain the benefits and history of river naturalisation.
+D. Not a documented objective.
+E. Create habitat for native birds and animals.
+-----
+
+===== h282 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h282_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h282_after.jpg
+Answer questions: [h282] Box 1, [h282] Box 2, [h282] Box 3, [h282] Box 4
+Options for every box, in this order:
+A. Give priority to pedestrians and universal accessibility.
+B. Not a documented objective.
+C. The project seeks to recover its heritage value.
+D. No change here.
+TEXT:
+-----
+Project brief:
+Shopfront frontage on a city avenue in Polanco, Mexico City, seen at street level from the carriageway side along the shop row.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Give priority to pedestrians and universal accessibility.
+B. Not a documented objective.
+C. The project seeks to recover its heritage value.
+D. No change here.
+-----
+
+===== h287 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h287_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h287_after.jpg
+Answer questions: [h287] Box 1, [h287] Box 2, [h287] Box 3, [h287] Box 4, [h287] Box 5, [h287] Box 6, [h287] Box 7
+Options for every box, in this order:
+A. Stabilise the riverbank slope and support a native riparian habitat.
+B. Not a documented objective.
+C. Improve connections between Tampines North housing and Tampines Eco Green.
+D. Improve stormwater conveyance and flood protection during intense rainstorms.
+E. Soften the concrete hardscape with canal-base greenery and planted islands.
+F. No change here.
+G. Enhance the waterside experience and encourage residents to enjoy the blue-green corridor.
+H. Detain and cleanse stormwater runoff before it enters the river.
+TEXT:
+-----
+Project brief:
+A view along the Sungei Tampines canal in the Tampines Avenue 7-to-TPE reach, with the camera beside the right-hand canal railing.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Stabilise the riverbank slope and support a native riparian habitat.
+B. Not a documented objective.
+C. Improve connections between Tampines North housing and Tampines Eco Green.
+D. Improve stormwater conveyance and flood protection during intense rainstorms.
+E. Soften the concrete hardscape with canal-base greenery and planted islands.
+F. No change here.
+G. Enhance the waterside experience and encourage residents to enjoy the blue-green corridor.
+H. Detain and cleanse stormwater runoff before it enters the river.
+-----
+
+===== h288 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h288_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h288_after.jpg
+Answer questions: [h288] Box 1, [h288] Box 2, [h288] Box 3, [h288] Box 4, [h288] Box 5, [h288] Box 6, [h288] Box 7
+Options for every box, in this order:
+A. Give people an inviting public place to relax and connect in the city centre.
+B. No change here.
+C. Test temporary park uses and design elements before permanent investment.
+D. Encourage activity and visits to the city centre at night.
+E. Allow flexible uses for markets, celebrations and community events.
+F. Not a documented objective.
+G. Make the former road safe, accessible and friendly to pedestrians.
+H. Revitalise the city-centre retail core and support nearby businesses.
+TEXT:
+-----
+Project brief:
+View along the former carriageway at Penrith Triangle Park, from the southern approach toward the High Street shops between a brick building on the left and shopfronts on the right.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Give people an inviting public place to relax and connect in the city centre.
+B. No change here.
+C. Test temporary park uses and design elements before permanent investment.
+D. Encourage activity and visits to the city centre at night.
+E. Allow flexible uses for markets, celebrations and community events.
+F. Not a documented objective.
+G. Make the former road safe, accessible and friendly to pedestrians.
+H. Revitalise the city-centre retail core and support nearby businesses.
+-----
+
+===== h290 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h290_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h290_after.jpg
+Answer questions: [h290] Box 1, [h290] Box 2, [h290] Box 3, [h290] Box 4, [h290] Box 5, [h290] Box 6, [h290] Box 7, [h290] Box 8
+Options for every box, in this order:
+A. Improve drainage around the square.
+B. Increase pedestrian permeability between Praça Tiradentes and nearby streets.
+C. Rehabilitate and enhance the square and its immediate surroundings.
+D. No change here.
+E. Not a documented objective.
+TEXT:
+-----
+Project brief:
+Street-level camera at the edge of Praça Tiradentes in central Rio de Janeiro, looking diagonally along the sidewalk toward the tree-filled square and adjoining traffic lane.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Improve drainage around the square.
+B. Increase pedestrian permeability between Praça Tiradentes and nearby streets.
+C. Rehabilitate and enhance the square and its immediate surroundings.
+D. No change here.
+E. Not a documented objective.
+-----
+
+===== h294 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h294_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h294_after.jpg
+Answer questions: [h294] Box 1, [h294] Box 2, [h294] Box 3, [h294] Box 4, [h294] Box 5, [h294] Box 6, [h294] Box 7
+Options for every box, in this order:
+A. Not a documented objective.
+B. Create a fitting station-front space with better urban conditions and efficient land use.
+C. Promote safe, accessible neighbourhood development and revitalize the local area.
+D. No change here.
+E. Ease bus and taxi circulation and improve convenience for station users.
+TEXT:
+-----
+Project brief:
+Eye-level view from the east-exit station forecourt roadway, looking toward the JR Tsurumi Station-front buildings and right-hand commercial row in Yokohama.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Create a fitting station-front space with better urban conditions and efficient land use.
+C. Promote safe, accessible neighbourhood development and revitalize the local area.
+D. No change here.
+E. Ease bus and taxi circulation and improve convenience for station users.
+-----
+
+===== h296 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h296_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h296_after.jpg
+Answer questions: [h296] Box 1, [h296] Box 2, [h296] Box 3, [h296] Box 4, [h296] Box 5, [h296] Box 6, [h296] Box 7
+Options for every box, in this order:
+A. Not a documented objective.
+B. Make the Rob Roy frontage a vibrant, attractive public meeting place.
+C. Increase State Highway 1 carrying capacity and relieve motorway congestion.
+D. Convey the location’s rich heritage through public-space design.
+E. No change here.
+F. Reduce vehicle dominance and make Union Street more pedestrian-friendly.
+G. Improve pedestrian connections between Franklin Road, Union Street and nearby destinations.
+TEXT:
+-----
+Project brief:
+The camera looks across the Franklin Road and Union Street junction toward the two-storey Rob Roy Hotel, with the motorway viaduct on the left.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Not a documented objective.
+B. Make the Rob Roy frontage a vibrant, attractive public meeting place.
+C. Increase State Highway 1 carrying capacity and relieve motorway congestion.
+D. Convey the location’s rich heritage through public-space design.
+E. No change here.
+F. Reduce vehicle dominance and make Union Street more pedestrian-friendly.
+G. Improve pedestrian connections between Franklin Road, Union Street and nearby destinations.
+-----
+
+===== h298 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h298_before.jpg
+After image: https://hosamgen.github.io/t1-study-assets/images/h298_after.jpg
+Answer questions: [h298] Box 1, [h298] Box 2, [h298] Box 3, [h298] Box 4, [h298] Box 5, [h298] Box 6, [h298] Box 7
+Options for every box, in this order:
+A. Stabilize basin banks to limit erosion and keep the water-harvesting depression functional.
+B. Not a documented objective.
+C. Capture runoff in planted depressions to conserve irrigation water and reduce downstream flooding.
+D. Establish native vegetation that supports local wildlife habitat in the neighborhood food forest.
+E. Rely on harvested rainwater alone for irrigation after plants establish.
+F. No change here.
+TEXT:
+-----
+Project brief:
+The camera looks diagonally along the street-side planting strip from the adjacent sidewalk at 947 E. 1st Street in Tucson, Arizona.
+
+Image 1 is the site before the project; image 2 is the same site after it.
+The same numbered boxes are drawn on both photos.
+Each numbered box marks the same part of the scene in both photos (the photos may be slightly shifted). Assign each marked region to the objective its change serves. Use 'No change here' for a region that did not change, and 'Not a documented objective' for a change that serves none of the listed objectives. A letter may be used more than once, and some letters may be unused.
+Objectives:
+A. Stabilize basin banks to limit erosion and keep the water-harvesting depression functional.
+B. Not a documented objective.
+C. Capture runoff in planted depressions to conserve irrigation water and reduce downstream flooding.
+D. Establish native vegetation that supports local wildlife habitat in the neighborhood food forest.
+E. Rely on harvested rainwater alone for irrigation after plants establish.
+F. No change here.
+-----
+
