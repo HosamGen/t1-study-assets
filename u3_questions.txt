@@ -1,0 +1,1425 @@
+Part 3 (U3 Planning) questions: 100 in total, one block per question, sorted by id.
+
+HOW TO BUILD EACH QUESTION (one page per question):
+1. Text block with the TEXT, copied exactly (everything between the two lines of -----).
+2. Label "Before" + the Before image. There is NO After image in this part.
+3. ONE answer question, type MULTI-SELECT (select all that apply), titled "[id] Your answer: select all boxes that apply (at least one)".
+   Options = Box 1 ... Box N as listed in the block, in that order. NO "None" option. Required; minimum 1 selection if the
+   builder has that setting; nothing pre-selected; no option randomization.
+
+INSTRUCTIONS PAGE TEXT (one text page before the first question; copy exactly):
+-----
+How to answer: "Which boxes would the project have to change?"
+
+You will see only the BEFORE photo of a place; the result of the project is not shown. The brief states one objective.
+
+Select every box that the project would have to change to achieve that objective. Do not select boxes that this objective does not require changing, even if they could be improved in other ways. Select at least one box.
+
+Example (made up):
+Objective: "Give pedestrians more shade while walking."
+Box 1 (a wide sidewalk with no trees): needs trees or awnings. Select it.
+Box 2 (the upper floors of a building): no change needed for shade at street level. Do not select it.
+Box 3 (the road surface): not needed for shade. Do not select it.
+Answer: Box 1.
+-----
+
+===== h001 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h001_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+A residential roadside frontage seen obliquely from the street toward a green-and-cream Japanese house and its planted garden. Objective for this question: Preserve garden beauty while making its surface easier to maintain.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h009 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h009_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+At the junction by the Cavill Avenue tram stop on Surfers Paradise Boulevard, looking along the road past the white arched corner shop and opposite tall retail buildings. Objective for this question: Make light-rail stations and their approaches pedestrian-friendly and accessible.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h010 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h010_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+At the station-side forecourt of Awara-Onsen Station in Fukui, looking toward the adjacent shopping-street junction. Objective for this question: Improve station roads and pedestrian connections for the Shinkansen-era northern Fukui gateway.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h012 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h012_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+View east across the Yulgok-ro intersection toward the former Ewha Dongdaemun Hospital compound at the Seoul fortress wall in Jongno, Seoul. Objective for this question: Re-create the historic landscape and restore Dongdaemun’s historical and cultural environment.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h014 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h014_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+An elevated oblique view across a river-edge platform, lower promenade and tree-lined upper lane at Qingdao's Yanjiashan Xiangli waterfront. Objective for this question: Connect neighbourhood life with waterfront walking and recreation spaces.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h020 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h020_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+A street-level view along Lougheed Highway in Burnaby, with residential towers and a parking/frontage site to the left and an elevated guideway to the right. Objective for this question: Improve boulevard safety, access, appearance, and greening.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h022 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h022_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+View east along Union Street in Pyrmont from above the carriageway, with cafés on the left and shops beneath mature trees on the right. Objective for this question: Improve the comfort and amenity of the pedestrian streetscape.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h023 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h023_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+A street-level view east along Boulevard De Maisonneuve Ouest beside Place Norman-Bethune and the Concordia campus in central Montréal. Objective for this question: Offer a high-quality public place for relaxation.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h024 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h024_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+A ground-level view across the eastern portion of Ohlone Park in Berkeley, looking from the park's paved edge toward the Ohlone Journey mural and play area. Objective for this question: Make the mural accessible for close-up viewing.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h025 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h025_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+Looking along Hindley Street West from the roadway, with the older red-brick building on the left and a campus forecourt on the right. Objective for this question: Slow vehicles and make pedestrian crossings safer.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h029 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h029_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4
+TEXT:
+-----
+Project brief:
+A historic-centre street and open square in Mexico City, photographed from the road corner, with trees and older colonial and early-20th-century facades ahead and to the sides. Objective for this question: Improve the quality of public space.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h030 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h030_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+The camera faces down Jellicoe Street beside the old concrete cement silos at Wynyard Quarter’s western waterfront. Objective for this question: Treat stormwater with planted green infrastructure.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h031 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h031_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+A view along a tree-lined Viaduct street toward the signalised junction beside the glass-fronted corner building. Objective for this question: Complete the city centre cycle loop by connecting existing cycle routes.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h032 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h032_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+An elevated diagonal view looks down onto the road junction of 28th Avenue and Hoyt Street, with storefronts on the right and a central roadway island. Objective for this question: Make the central crossing refuge accessible to people using mobility devices.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h035 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h035_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+An earth dam at Dolejšák pond in Prague-Zličín, viewed along its crest with the pond to the left. Objective for this question: Make walking along the dam more comfortable.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h038 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Before image: https://hosamgen.github.io/t1-study-assets/images/h038_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8 | Box 9 | Box 10
+TEXT:
+-----
+Project brief:
+Street-level view looking toward the next intersection along Akashimachi-suji, amid commercial frontages and established street trees in central Kobe. Objective for this question: Mitigate the urban heat-island phenomenon.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h039 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h039_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+The camera looks along Swanston Street from its central tram corridor, with the State Library lawn to the left and a row of shops to the right. Objective for this question: Improve access for cyclists along Swanston Street.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h047 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h047_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+A broad view across the Zhongshan Road and Kaixuan 4th Road junction in Kaohsiung, from the near roadway toward the station-side crossing. Objective for this question: Make the bridge easy to reach for older and mobility-impaired people.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h049 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h049_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+A street-level view along Suwoncheon near Maegyo–Jidonggyo in Suwon, with shopfronts on both banks and a large commercial block to the right. Objective for this question: Restore Suwoncheon ecology and return the stream to citizens.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h060 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h060_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+A residential garden approach in Liangwu, Shanghai, seen from the brick path at its foot, looking toward a low glazed pavilion at the end of the path. Objective for this question: Make the neglected garden more visually interesting and attractive to insects and birds.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h061 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h061_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+Street-level view looking along Edo Sakura-dori in Nihonbashimuromachi, with restaurants on the left and a redevelopment frontage on the right. Objective for this question: Make surrounding streets pleasant to walk and lively with activity.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h066 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h066_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+A view across a road toward a city block in Taichung's New Municipal Centre, framed by buildings. Objective for this question: Provide parkland for recreation, cultural performances and festivals.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h067 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h067_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4
+TEXT:
+-----
+Project brief:
+Street-level view from the roadway at the north entrance of the Levant Fair precinct beside Plumer Square in Tel Aviv: shopfronts ahead on the left, a restaurant with umbrellas on the right. Objective for this question: Link the peninsula entrances to city streets, prioritizing pedestrians and cyclists.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h070 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h070_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4
+TEXT:
+-----
+Project brief:
+A downtown two-lane street in Kelowna (Queensway) seen from the carriageway, with parked cars on the right, shopfronts beyond them and a junction with a traffic island ahead. Objective for this question: Make the exchange universally accessible, for example with tactile warning strips.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h072 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h072_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+Looking along Little Hay Street from its Sussex Street entrance, between an arcaded hotel facade on the left and low retail buildings on the right in Haymarket, Sydney. Objective for this question: Give pedestrians more walking space and priority over vehicles on Little Hay Street.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h073 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h073_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+Looking north along E Street toward the next signalized intersection, beside Town Square Park in downtown Anchorage. Objective for this question: Create a dynamic, inviting and stimulating pedestrian streetscape.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h074 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h074_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+Street-level view looking along lower Cuba Street between the Manners and Wakefield Street intersections, with the ornate heritage facade to the left and shop fronts to the right. Objective for this question: Maintain a continuous pedestrian connection from Cuba Mall toward Civic Square.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h076 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h076_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+Camera across Wynkoop Street facing the historic Denver Union Station frontage and its forecourt. Objective for this question: Relate the plaza to the historic station and Lower Downtown district.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h077 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h077_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+A coastal street (John Parade) with a red-brick block of flats at a side-street junction on the left and the beach and sea on the right, seen from the middle of the carriageway. Objective for this question: Resolve traffic and pedestrian conflict at the Watkins Street intersection.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h086 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h086_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4
+TEXT:
+-----
+Project brief:
+A view along the curved street beside the Groupe Scolaire Annexe boundary wall, looking toward the school approach from the road edge. Objective for this question: Separate children from traffic with safe pathways.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h090 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h090_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+Looking along Fitzmaurice Street toward the brick courthouse clock tower from the street carriageway near the Sturt Street junction in Wagga Wagga. Objective for this question: Improve the visual quality and appearance of Fitzmaurice Street.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h092 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h092_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+View along Saharon Street from the carriageway, facing a roadside verge and grove on the right and apartment blocks on the left. Objective for this question: Improve traffic safety and pedestrian safety.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h093 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h093_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+A one-way street (Carrera 50, Palace) in central Medellin at a junction with a side street, photographed from the kerbside lane looking along the carriageway past shops and parked vehicles. Objective for this question: Extend the Ciudad del Rio cycle route into the city centre.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h098 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h098_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+Street-level view eastward along Via Paolo Sarpi, Milan, with historic masonry frontages and a narrow corridor between them. Objective for this question: Restore Via Paolo Sarpi’s identity and make its limited-traffic streetscape safer and more orderly.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h099 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h099_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+A downtown street corner in San Marcos, Texas, where a side road meets a parking lot behind a low wall; the photo is taken from the roadway. Objective for this question: Implement Low Impact Development principles.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h100 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h100_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+Street-level view north along Kent Avenue at North 8th Street in Brooklyn, with a fenced park to the west and apartments to the east. Objective for this question: Reduce speeding by narrowing and organizing the vehicle travel space.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h103 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h103_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+Street-level view along Avenida Ayacucho toward the intersection with Carrera 49 (Junín) in Medellín, with shop-lined corners on both sides. Objective for this question: Keep pedestrians clear of passing trams by defining their safe boundary.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h105 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h105_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+View from the roadway across the 1100 block frontage toward Emery Barnes Park in Downtown South, Vancouver, with apartment towers behind it. Objective for this question: Provide Downtown South residents a green refuge for passive recreation.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h109 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h109_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+A downward view along Argyle Place at the Dalgety Road junction in Millers Point, with the camera standing in the roadway and looking toward a brick warehouse and a tall masonry stack. Objective for this question: Slow traffic along the corridor.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h111 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h111_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+View from Szent István körút into Ditrói Mór Street, beside Budapest’s Vígszínház theatre, with the theatre on the left and café frontage on the right. Objective for this question: Give pedestrians room to rest, meet and hold outdoor cultural events.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h115 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9
+Before image: https://hosamgen.github.io/t1-study-assets/images/h115_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8 | Box 9
+TEXT:
+-----
+Project brief:
+A view looking along Sankyūbashi-suji through a small junction, with historic masonry facades on the left and a modern office frontage on the right. Objective for this question: Create a pleasant, spacious pedestrian environment along the street.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h117 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h117_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+An eastward-looking view along Avenida Paulista at the Brigadeiro Metro stop, with two directional carriageways and central traffic islands. Objective for this question: Improve comfort and safety for people riding bicycles.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h119 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h119_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+The camera looks across Herzl Street toward the kiosk and pedestrian entrance of Rothschild Boulevard, with the French Institute building on the right in Tel Aviv. Objective for this question: Make an open public square where diverse users can sit, meet and gather.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h122 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h122_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+A street-level view looking along Długa Street in Kraków, with shopfront buildings on both sides and the camera near its corner with Basztowa Street. Objective for this question: Support walking and bicycle movement on Długa Street.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h125 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h125_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+Top-down aerial view of a Yangtze riverbank inlet, with a wooded bank on the left and a canal and road along the right edge. Objective for this question: Restore the ecology of the river and its banks.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h127 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h127_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+A street-level view looking north along L Street SE through the former school-bus lot between park blocks at Washington Canal Park, Washington, DC. Objective for this question: Protect pedestrians and slow vehicular traffic.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h129 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h129_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+Looking north up Thomas Street in Haymarket from the southern end of the plaza, with historic shopfronts on the left and a covered building frontage on the right. Objective for this question: Create an inviting pedestrian-friendly public space along Thomas Street.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h131 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h131_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+Inside a rectangular walled school sports court, looking toward a tall ochre end building and the rear entrance gate. Objective for this question: Restore a safe school playground for children's play and collective activities.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h132 =====
+Boxes: 1, 2, 3
+Before image: https://hosamgen.github.io/t1-study-assets/images/h132_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3
+TEXT:
+-----
+Project brief:
+A street corner in Townsville city centre, seen at street level: a café frontage with a curved awning on the left, and an open paved and grassed square on the right. Objective for this question: Connect Flinders Street to the waterfront.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h134 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9
+Before image: https://hosamgen.github.io/t1-study-assets/images/h134_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8 | Box 9
+TEXT:
+-----
+Project brief:
+A view from the southwest edge of the Chłodna Street square toward a long residential-and-shop frontage in Wola, Warsaw. Objective for this question: Calm and organise traffic circulation along the street.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h135 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h135_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+A street-level view looks southwest across southern Moravské náměstí toward St. Thomas Church at left and the Governor’s Palace ahead, with tram tracks at right. Objective for this question: Restore a coherent, dignified civic square before the historic church and courthouse.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h139 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h139_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+Oblique view along Xinyi Road Section 4 from the side-street corner beside a 7-Eleven in Taipei. Objective for this question: Make Xinyi Road a demonstration tree-lined boulevard.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h140 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9
+Before image: https://hosamgen.github.io/t1-study-assets/images/h140_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8 | Box 9
+TEXT:
+-----
+Project brief:
+The camera looks from the parking area across a lawn toward the brick wings of the Wayne-Finger Lakes BOCES conference center. Objective for this question: Connect users to the renovated meeting and training facility.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h141 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h141_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+Street-level view along Avenida Henrique Valadares, with a colonnaded office frontage to the left and a tall building to the right. Objective for this question: Improve quality of life for neighborhood residents and visitors.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h150 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h150_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+An aerial view along a river corridor in a dense city, looking north, with an elevated expressway on the right and apartment blocks on the left. Objective for this question: Let the river self-renew and rebuild its ecosystem by restoring its natural course.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h152 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h152_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+A street-level view of Odinsplatsen in Gothenburg's Stampen district, facing the red-brick apartment block and the white commercial frontage across the square. Objective for this question: Provide breathing space for people and nature.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h157 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9
+Before image: https://hosamgen.github.io/t1-study-assets/images/h157_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8 | Box 9
+TEXT:
+-----
+Project brief:
+Street-level view facing uphill from the junction at the base of Parc du Platon in Trois-Rivières, with a brick building on the left and trees on the right. Objective for this question: Create a clear, welcoming gateway into the historic district.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h160 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h160_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+A wide concrete staircase flight on a hillside in Morro do Saboo, Santos, between a rough stone wall on the left and house walls on the right; the camera stands at the foot of the flight and looks up it. Objective for this question: Make the staircases safer for residents to use.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h161 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h161_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+Street-level view looking down Agias Sofias Street between continuous mid-rise shopfront buildings in Thessaloniki. Objective for this question: Enable unobstructed everyday pedestrian passage and strolling along the street.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h162 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9
+Before image: https://hosamgen.github.io/t1-study-assets/images/h162_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8 | Box 9
+TEXT:
+-----
+Project brief:
+An elevated camera looks along Fillmore Plaza between retail buildings from its foreground street intersection in Denver. Objective for this question: Beautify the district and conserve water through landscaping.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h163 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h163_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+A vertical aerial view of a shoreline park beside a road, with a mown lawn, a small shelter, a boardwalk and a tidal inlet with saltmarsh. Objective for this question: Restore regular tidal flow to the former saltmarsh so it can recover.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h164 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Before image: https://hosamgen.github.io/t1-study-assets/images/h164_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8 | Box 9 | Box 10
+TEXT:
+-----
+Project brief:
+Street-level view looking toward the entrance-side garden, ground-floor sliding window, and front steps of a two-story Japanese residence. Objective for this question: Create a calm outdoor area sheltered from street views and activity.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h170 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h170_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4
+TEXT:
+-----
+Project brief:
+A street-level view from the park side of Lakeview Boulevard faces the residential frontage and pale picket fence opposite Baisley Pond Park. Objective for this question: Reduce flooding and improve street conditions around the east side of Baisley Pond Park.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h171 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h171_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+Kensington Street in Chippendale, Sydney, viewed along the street between historic buildings. Objective for this question: Reactivate heritage buildings for contemporary commercial and cultural uses.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h172 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h172_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+The camera faces a broad street junction from the near pedestrian corner of Praça Afonso Arinos on Avenida Álvares Cabral in central Belo Horizonte. Objective for this question: Establish bicycles as healthy, non-polluting public transportation.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h174 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h174_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+A forward-facing street view from Central Avenue looking east across its junction with 5th Street in downtown St. Petersburg, Florida. Objective for this question: Improve major and gateway intersections.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h179 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h179_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+Looking west along Rue de la Commune Est in Vieux-Montréal, with the waterfront verge to the left of the street and residential buildings to the right. Objective for this question: Make the public space into an urban cooling oasis.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h183 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h183_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+A brick-paved school forecourt in front of a broad flight of steps and a four-storey brick school building, seen from the open paving looking toward the steps. Objective for this question: Reduce summer heat in the street and homes at Reggestraat and Roerplein.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h192 =====
+Boxes: 1, 2, 3, 4
+Before image: https://hosamgen.github.io/t1-study-assets/images/h192_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4
+TEXT:
+-----
+Project brief:
+A street-level view looks uphill from the lower approach of West 215th Step Street between Park Terrace East and Broadway in Inwood. Objective for this question: Help users orient themselves and track their progress along the step street.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h193 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h193_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+A street-level view from the Leary Way NE intersection looking east along Cleveland Street toward downtown shops and buildings in Redmond, Washington. Objective for this question: Create Cleveland Street as a distinctive downtown Main Street promenade.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h197 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h197_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+McCrae Way immediately behind New Lynn Library, seen looking along the street toward the station-side public space with the library promenade on the left and shops on the right. Objective for this question: Bring new commercial and healthcare activity to the Merchant Quarter.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h199 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h199_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+An oblique aerial view up the Nervion estuary in Bilbao, taken from above the road bridge in the foreground with the river bending away between the two banks. Objective for this question: Bring residential and economic activity to former industrial land.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h200 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h200_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+A residential stretch of 34 Avenue S.W. in Calgary seen eastbound from the roadway, with apartment blocks on both sides and a sidewalk on the right. Objective for this question: Create a design that is uniquely Marda Loop and reflects its identity.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h209 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h209_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+The camera looks downhill along Old Fulton Street toward Fulton Ferry Landing, with the historic white ferry building on the right and the East River ahead. Objective for this question: Provide a welcoming public gathering place at the Fulton Ferry gateway.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h212 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h212_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+A view down Calle Libertad from the shopfront side past the cathedral frontage toward Chihuahua’s historic-centre square. Objective for this question: Rehabilitate, maintain and conserve public spaces and green areas.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h216 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h216_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+An elevated view across the tidal marsh of the Cooper River toward a formerly paved waterfront strip and the adjoining Charleston buildings, with docks beyond the south end. Objective for this question: Create an attractive green riverfront welcoming residents and visitors.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h218 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h218_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+A coastal access road and pedestrian frontage at the foot of a vegetated hillside beside Xiziwan waterfront, viewed looking along the approach to the bay. Objective for this question: Connect the main Xiziwan waterfront visitor attractions.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h220 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h220_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+A camera on a stairway landing looks downhill toward a street in Jardim Nakamura, São Paulo. Objective for this question: Make the staircase a place where local people can enjoy art.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h221 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h221_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+Looking east along Queens Quay West beside the Waterfront Neighbourhood Centre, with streetcar tracks to the left and a fenced outdoor court to the right. Objective for this question: Connect the existing waterfront trails into a continuous route.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h224 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h224_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+A steep hillside pedestrian route between houses in a Bogota neighbourhood, photographed from the foot of the route looking uphill. Objective for this question: Give residents comfortable, safe access up the steep hillside on foot.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h229 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h229_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+Tree-lined roadside pedestrian frontage beside Linear Garden along the main BRT corridor in Pimple Saudagar, viewed looking ahead from the garden-edge footway. Objective for this question: Organise vehicles into designated on-street parking areas.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h233 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h233_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+Elevated view down the shop-lined station-access road, looking under a curving pedestrian footbridge toward Thane railway station. Objective for this question: Keep motor vehicles out of dedicated pedestrian space along the station approach.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h234 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h234_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+Looking along Swanson Street toward St Patrick’s Square in central Auckland, with the cathedral and nearby office buildings behind the public space. Objective for this question: Create a safe, comfortable and enjoyable public space day and night.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h237 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h237_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+Street-level view of the Burrard Street and Cornwall Avenue junction, with vehicle lanes to the left and the park frontage to the right. Objective for this question: Increase usable park space near the bridge approach.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h238 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h238_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+An open neighbourhood sports court in Manizales, Colombia, seen from a stepped concrete bank on one side looking across the playing surface toward the goal and backboard end. Objective for this question: Promote sport, recreation and social cohesion through the renovated court.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h241 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h241_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+An open neighbourhood lot in Prados del Sol del Desierto, viewed from beside the large grey building toward the kerbed path along the right edge. Objective for this question: Foster peace, coexistence and neighbourly interaction through shared park spaces.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h244 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h244_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+The camera looks along the midstream Kai Tak River channel toward a low bridge, with apartment blocks and a roadside corridor on the right. Objective for this question: Support river habitats and aquatic biodiversity.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h248 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h248_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+Street-level camera on the south side of Broadway/Fifth Avenue looking north toward Madison Square Park and surrounding Manhattan buildings. Objective for this question: Improve traffic and pedestrian movement patterns at the junction.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h249 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h249_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+Sheinkin Street in Tel Aviv, viewed along the carriageway past a shop-side juice stand towards the far intersection. Objective for this question: Give Sheinkin Street a renewed and updated appearance.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h254 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h254_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+Street junction at the edge of Karantina Public Park in Beirut, viewed from the open roadway toward the park fence and lattice pylon. Objective for this question: Slow traffic and regulate vehicle movement.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h261 =====
+Boxes: 1, 2, 3, 4, 5, 6
+Before image: https://hosamgen.github.io/t1-study-assets/images/h261_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6
+TEXT:
+-----
+Project brief:
+At Cheapside Park in downtown Lexington, the camera looks toward a stone civic building on the right, with commercial frontage along the left side of the street. Objective for this question: Support outdoor dining, entertainment and cultural activities in the central public space.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h263 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h263_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+Lorne Street outside Auckland Central City Library, viewed along the street toward the far intersection. Objective for this question: Improve pedestrian use in front of the central library.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h265 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h265_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+View looking along Dock Street toward the former Larkin Plaza parking area in downtown Yonkers, with shops at left and the street continuing at right. Objective for this question: Restore the buried Saw Mill River to a natural open-air condition.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h267 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h267_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+Street-level view looking uphill across the junction of Shlomtsiyon HaMalka, Ben Sira and Shlomo HaMelech streets toward a rounded commercial building. Objective for this question: Create a continuous, high-quality pedestrian public-space link between downtown, Mamilla and Old City.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h278 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h278_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+View east along Allen Street in Waterloo from the Botany Road end, with a brick warehouse and sidewalk on the left and the two-way vehicle carriageway toward an intersection. Objective for this question: Provide high-quality, safe bicycle facilities connecting regional routes and local destinations.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h281 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7, 8
+Before image: https://hosamgen.github.io/t1-study-assets/images/h281_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7 | Box 8
+TEXT:
+-----
+Project brief:
+The camera looks down Wyckoff Avenue toward Gates Avenue beside the Myrtle-Wyckoff subway station entrance and the elevated rail support. Objective for this question: Create a central neighborhood public gathering place at the retail and transit hub.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h284 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h284_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+A small paved square at the southern end of a Hamburg shopping street, seen from the square's edge toward an office building, with a bronze statue on a plinth at the right. Objective for this question: Create a planted square with seating that invites people to linger.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h285 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h285_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+Colquhoun Square in Helensburgh, viewed from Colquhoun Street toward the church and the far side of the square. Objective for this question: Enhance pedestrian movement and public use of the square.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h295 =====
+Boxes: 1, 2, 3, 4, 5, 6, 7
+Before image: https://hosamgen.github.io/t1-study-assets/images/h295_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5 | Box 6 | Box 7
+TEXT:
+-----
+Project brief:
+A downtown river edge below an arcaded street viaduct, seen from a bridge looking along the bank toward a stone bridgehouse. Objective for this question: Provide comfortable places to sit and view the river.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
+===== h299 =====
+Boxes: 1, 2, 3, 4, 5
+Before image: https://hosamgen.github.io/t1-study-assets/images/h299_before.jpg
+After image: none
+Answer options: Box 1 | Box 2 | Box 3 | Box 4 | Box 5
+TEXT:
+-----
+Project brief:
+A walled family cemetery plot in Cairo, seen from open sandy ground facing a small prayer-room building and a domed pavilion on open arches. Objective for this question: Remove informal structures and waste to restore the graveyard to its original design.
+
+The image shows the site before the project, with numbered boxes.
+The photo shows the site BEFORE the project; the result is not shown. Each numbered box marks a part of the site. Which marked regions would the project have to change to achieve the objective stated in the brief? Regions that this objective does not require changing must not be selected. Select all that apply.
+-----
+
